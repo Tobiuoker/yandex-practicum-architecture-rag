@@ -1,0 +1,36 @@
+{
+  "questions": 10,
+  "passed": 10,
+  "overall_pass_rate": 1.0,
+  "retrieval_hit_at_3": 1.0,
+  "mrr_at_3": 1.0,
+  "mean_answer_similarity": 0.8188,
+  "correct_abstention_rate": 1.0,
+  "failures_by_stage": {
+    "retrieval": 0,
+    "generation": 0,
+    "abstention": 0
+  },
+  "topics": {
+    "characters": {
+      "total": 3,
+      "passed": 3,
+      "pass_rate": 1.0
+    },
+    "location": {
+      "total": 3,
+      "passed": 3,
+      "pass_rate": 1.0
+    },
+    "item": {
+      "total": 2,
+      "passed": 2,
+      "pass_rate": 1.0
+    },
+    "creature": {
+      "total": 2,
+      "passed": 2,
+      "pass_rate": 1.0
+    }
+  }
+}

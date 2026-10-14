@@ -1,1 +1,0 @@
-# yandex-practicum-architecture-rag
