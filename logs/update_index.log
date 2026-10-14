@@ -1,0 +1,666 @@
+2026-10-12 00:40:04,670 | INFO | Index update started | time=2026-10-12T00:40:04+05:00
+2026-10-12 00:40:04,675 | INFO | Detected changes | added=5 | changed=0 | deleted=0
+2026-10-12 00:40:10,457 | INFO | Added: doc_0206.md | chunks=1
+2026-10-12 00:40:10,628 | INFO | Added: doc_0207.md | chunks=1
+2026-10-12 00:40:10,697 | INFO | Added: doc_0208.md | chunks=1
+2026-10-12 00:40:10,756 | INFO | Added: doc_0209.md | chunks=1
+2026-10-12 00:40:10,887 | INFO | Added: doc_0210.md | chunks=1
+2026-10-12 00:40:10,889 | INFO | Index update completed | started=2026-10-12T00:40:04+05:00 | finished=2026-10-12T00:40:10+05:00 | added_files=5 | changed_files=0 | deleted_files=0 | new_chunks=5 | reindexed_chunks=0 | index_size=357 | errors=0 | duration=6.22s
+2026-10-12 13:51:33,657 | INFO | Index update started | time=2026-10-12T13:51:33+05:00
+2026-10-12 13:51:33,703 | INFO | Detected changes | added=115 | changed=0 | deleted=0
+2026-10-12 13:51:40,635 | INFO | Added: doc_0211.md | chunks=1
+2026-10-12 13:51:40,708 | INFO | Added: doc_0212.md | chunks=1
+2026-10-12 13:51:40,773 | INFO | Added: doc_0213.md | chunks=1
+2026-10-12 13:51:40,834 | INFO | Added: doc_0214.md | chunks=1
+2026-10-12 13:51:41,025 | INFO | Added: doc_0215.md | chunks=1
+2026-10-12 13:51:41,198 | INFO | Added: doc_0216.md | chunks=3
+2026-10-12 13:51:41,256 | INFO | Added: doc_0217.md | chunks=1
+2026-10-12 13:51:41,321 | INFO | Added: doc_0218.md | chunks=1
+2026-10-12 13:51:41,395 | INFO | Added: doc_0219.md | chunks=1
+2026-10-12 13:51:41,486 | INFO | Added: doc_0220.md | chunks=1
+2026-10-12 13:51:41,663 | INFO | Added: doc_0221.md | chunks=1
+2026-10-12 13:51:41,718 | INFO | Added: doc_0222.md | chunks=1
+2026-10-12 13:51:41,783 | INFO | Added: doc_0223.md | chunks=1
+2026-10-12 13:51:41,837 | INFO | Added: doc_0224.md | chunks=1
+2026-10-12 13:51:41,905 | INFO | Added: doc_0225.md | chunks=1
+2026-10-12 13:51:42,382 | INFO | Added: doc_0226.md | chunks=6
+2026-10-12 13:51:42,511 | INFO | Added: doc_0227.md | chunks=1
+2026-10-12 13:51:42,754 | INFO | Added: doc_0228.md | chunks=2
+2026-10-12 13:51:42,980 | INFO | Added: doc_0229.md | chunks=3
+2026-10-12 13:51:43,074 | INFO | Added: doc_0230.md | chunks=1
+2026-10-12 13:51:43,190 | INFO | Added: doc_0231.md | chunks=1
+2026-10-12 13:51:43,277 | INFO | Added: doc_0232.md | chunks=1
+2026-10-12 13:51:43,359 | INFO | Added: doc_0233.md | chunks=1
+2026-10-12 13:51:43,419 | INFO | Added: doc_0234.md | chunks=1
+2026-10-12 13:51:43,903 | INFO | Added: doc_0235.md | chunks=4
+2026-10-12 13:51:43,980 | INFO | Added: doc_0236.md | chunks=1
+2026-10-12 13:51:44,079 | INFO | Added: doc_0237.md | chunks=1
+2026-10-12 13:51:44,411 | INFO | Added: doc_0238.md | chunks=4
+2026-10-12 13:51:45,503 | INFO | Added: doc_0239.md | chunks=10
+2026-10-12 13:51:46,099 | INFO | Added: doc_0240.md | chunks=6
+2026-10-12 13:51:46,229 | INFO | Added: doc_0241.md | chunks=1
+2026-10-12 13:51:46,495 | INFO | Added: doc_0242.md | chunks=2
+2026-10-12 13:51:46,850 | INFO | Added: doc_0243.md | chunks=2
+2026-10-12 13:51:47,096 | INFO | Added: doc_0244.md | chunks=1
+2026-10-12 13:51:47,166 | INFO | Added: doc_0245.md | chunks=1
+2026-10-12 13:51:47,257 | INFO | Added: doc_0246.md | chunks=1
+2026-10-12 13:51:47,708 | INFO | Added: doc_0247.md | chunks=2
+2026-10-12 13:51:47,796 | INFO | Added: doc_0248.md | chunks=1
+2026-10-12 13:51:47,865 | INFO | Added: doc_0249.md | chunks=1
+2026-10-12 13:51:47,932 | INFO | Added: doc_0250.md | chunks=1
+2026-10-12 13:51:48,002 | INFO | Added: doc_0251.md | chunks=1
+2026-10-12 13:51:48,150 | INFO | Added: doc_0252.md | chunks=2
+2026-10-12 13:51:48,252 | INFO | Added: doc_0253.md | chunks=1
+2026-10-12 13:51:48,383 | INFO | Added: doc_0254.md | chunks=1
+2026-10-12 13:51:48,502 | INFO | Added: doc_0255.md | chunks=1
+2026-10-12 13:51:48,592 | INFO | Added: doc_0256.md | chunks=1
+2026-10-12 13:51:48,673 | INFO | Added: doc_0257.md | chunks=1
+2026-10-12 13:51:48,771 | INFO | Added: doc_0258.md | chunks=1
+2026-10-12 13:51:48,888 | INFO | Added: doc_0259.md | chunks=1
+2026-10-12 13:51:48,973 | INFO | Added: doc_0260.md | chunks=1
+2026-10-12 13:51:49,059 | INFO | Added: doc_0261.md | chunks=1
+2026-10-12 13:51:49,133 | INFO | Added: doc_0262.md | chunks=1
+2026-10-12 13:51:49,297 | INFO | Added: doc_0263.md | chunks=1
+2026-10-12 13:51:49,377 | INFO | Added: doc_0264.md | chunks=1
+2026-10-12 13:51:49,440 | INFO | Added: doc_0265.md | chunks=1
+2026-10-12 13:51:49,512 | INFO | Added: doc_0266.md | chunks=1
+2026-10-12 13:51:49,603 | INFO | Added: doc_0267.md | chunks=1
+2026-10-12 13:51:49,668 | INFO | Added: doc_0268.md | chunks=1
+2026-10-12 13:51:49,950 | INFO | Added: doc_0269.md | chunks=4
+2026-10-12 13:51:50,058 | INFO | Added: doc_0270.md | chunks=1
+2026-10-12 13:51:50,136 | INFO | Added: doc_0271.md | chunks=1
+2026-10-12 13:51:50,296 | INFO | Added: doc_0272.md | chunks=2
+2026-10-12 13:51:50,385 | INFO | Added: doc_0273.md | chunks=1
+2026-10-12 13:51:50,517 | INFO | Added: doc_0274.md | chunks=1
+2026-10-12 13:51:50,576 | INFO | Added: doc_0275.md | chunks=1
+2026-10-12 13:51:50,642 | INFO | Added: doc_0276.md | chunks=1
+2026-10-12 13:51:50,703 | INFO | Added: doc_0277.md | chunks=1
+2026-10-12 13:51:50,882 | INFO | Added: doc_0278.md | chunks=3
+2026-10-12 13:51:50,985 | INFO | Added: doc_0279.md | chunks=1
+2026-10-12 13:51:51,125 | INFO | Added: doc_0280.md | chunks=1
+2026-10-12 13:51:51,255 | INFO | Added: doc_0281.md | chunks=1
+2026-10-12 13:51:51,331 | INFO | Added: doc_0282.md | chunks=1
+2026-10-12 13:51:51,609 | INFO | Added: doc_0283.md | chunks=4
+2026-10-12 13:51:51,688 | INFO | Added: doc_0284.md | chunks=1
+2026-10-12 13:51:51,793 | INFO | Added: doc_0285.md | chunks=1
+2026-10-12 13:51:51,871 | INFO | Added: doc_0286.md | chunks=1
+2026-10-12 13:51:52,039 | INFO | Added: doc_0287.md | chunks=2
+2026-10-12 13:51:52,118 | INFO | Added: doc_0288.md | chunks=1
+2026-10-12 13:51:52,190 | INFO | Added: doc_0289.md | chunks=1
+2026-10-12 13:51:52,254 | INFO | Added: doc_0290.md | chunks=1
+2026-10-12 13:51:52,327 | INFO | Added: doc_0291.md | chunks=1
+2026-10-12 13:51:52,405 | INFO | Added: doc_0292.md | chunks=1
+2026-10-12 13:51:52,473 | INFO | Added: doc_0293.md | chunks=1
+2026-10-12 13:51:52,538 | INFO | Added: doc_0294.md | chunks=1
+2026-10-12 13:51:52,644 | INFO | Added: doc_0295.md | chunks=1
+2026-10-12 13:51:52,821 | INFO | Added: doc_0296.md | chunks=2
+2026-10-12 13:51:52,985 | INFO | Added: doc_0297.md | chunks=1
+2026-10-12 13:51:53,089 | INFO | Added: doc_0298.md | chunks=1
+2026-10-12 13:51:53,199 | INFO | Added: doc_0299.md | chunks=1
+2026-10-12 13:51:53,286 | INFO | Added: doc_0300.md | chunks=1
+2026-10-12 13:51:53,366 | INFO | Added: doc_0301.md | chunks=1
+2026-10-12 13:51:53,448 | INFO | Added: doc_0302.md | chunks=1
+2026-10-12 13:51:53,547 | INFO | Added: doc_0303.md | chunks=1
+2026-10-12 13:51:54,250 | INFO | Added: doc_0304.md | chunks=5
+2026-10-12 13:51:54,358 | INFO | Added: doc_0305.md | chunks=1
+2026-10-12 13:51:54,497 | INFO | Added: doc_0306.md | chunks=1
+2026-10-12 13:51:54,667 | INFO | Added: doc_0307.md | chunks=1
+2026-10-12 13:51:54,805 | INFO | Added: doc_0308.md | chunks=1
+2026-10-12 13:51:55,492 | INFO | Added: doc_0309.md | chunks=6
+2026-10-12 13:51:55,574 | INFO | Added: doc_0310.md | chunks=1
+2026-10-12 13:51:55,632 | INFO | Added: doc_0311.md | chunks=1
+2026-10-12 13:51:55,715 | INFO | Added: doc_0312.md | chunks=1
+2026-10-12 13:51:55,792 | INFO | Added: doc_0313.md | chunks=1
+2026-10-12 13:51:55,848 | INFO | Added: doc_0314.md | chunks=1
+2026-10-12 13:51:56,002 | INFO | Added: doc_0315.md | chunks=2
+2026-10-12 13:51:56,168 | INFO | Added: doc_0316.md | chunks=1
+2026-10-12 13:51:56,271 | INFO | Added: doc_0317.md | chunks=1
+2026-10-12 13:51:56,361 | INFO | Added: doc_0318.md | chunks=1
+2026-10-12 13:51:56,434 | INFO | Added: doc_0319.md | chunks=1
+2026-10-12 13:51:56,512 | INFO | Added: doc_0320.md | chunks=1
+2026-10-12 13:51:56,707 | INFO | Added: doc_0321.md | chunks=2
+2026-10-12 13:51:56,904 | INFO | Added: doc_0322.md | chunks=1
+2026-10-12 13:51:57,355 | INFO | Added: doc_0323.md | chunks=4
+2026-10-12 13:51:57,715 | INFO | Added: doc_0324.md | chunks=3
+2026-10-12 13:51:58,154 | INFO | Added: doc_0325.md | chunks=4
+2026-10-12 13:51:58,159 | INFO | Index update completed | started=2026-10-12T13:51:33+05:00 | finished=2026-10-12T13:51:58+05:00 | added_files=115 | changed_files=0 | deleted_files=0 | new_chunks=179 | reindexed_chunks=0 | index_size=536 | errors=0 | duration=24.50s
+2026-10-12 14:45:45,019 | INFO | Index update started | time=2026-10-12T14:45:45+05:00
+2026-10-12 14:45:45,047 | INFO | Detected changes | added=0 | changed=0 | deleted=4
+2026-10-12 14:45:45,151 | INFO | Deleted: doc_0078.md
+2026-10-12 14:45:45,179 | INFO | Deleted: doc_0109.md
+2026-10-12 14:45:45,202 | INFO | Deleted: doc_0166.md
+2026-10-12 14:45:45,226 | INFO | Deleted: doc_0192.md
+2026-10-12 14:45:45,230 | INFO | Index update completed | started=2026-10-12T14:45:45+05:00 | finished=2026-10-12T14:45:45+05:00 | added_files=0 | changed_files=0 | deleted_files=4 | new_chunks=0 | reindexed_chunks=0 | index_size=527 | errors=0 | duration=0.21s
+2026-10-12 14:46:05,707 | INFO | Index update started | time=2026-10-12T14:46:05+05:00
+2026-10-12 14:46:05,736 | INFO | Detected changes | added=4 | changed=0 | deleted=0
+2026-10-12 14:46:11,612 | INFO | Added: doc_0078.md | chunks=1
+2026-10-12 14:46:11,876 | INFO | Added: doc_0109.md | chunks=3
+2026-10-12 14:46:11,926 | INFO | Added: doc_0166.md | chunks=1
+2026-10-12 14:46:12,093 | INFO | Added: doc_0192.md | chunks=4
+2026-10-12 14:46:12,094 | INFO | Index update completed | started=2026-10-12T14:46:05+05:00 | finished=2026-10-12T14:46:12+05:00 | added_files=4 | changed_files=0 | deleted_files=0 | new_chunks=9 | reindexed_chunks=0 | index_size=536 | errors=0 | duration=6.39s
+2026-10-12 14:57:05,355 | INFO | Index update started | time=2026-10-12T14:57:05+05:00
+2026-10-12 14:57:05,384 | INFO | Detected changes | added=0 | changed=0 | deleted=4
+2026-10-12 14:57:05,469 | INFO | Deleted: doc_0078.md
+2026-10-12 14:57:05,497 | INFO | Deleted: doc_0109.md
+2026-10-12 14:57:05,523 | INFO | Deleted: doc_0166.md
+2026-10-12 14:57:05,556 | INFO | Deleted: doc_0192.md
+2026-10-12 14:57:05,561 | INFO | Index update completed | started=2026-10-12T14:57:05+05:00 | finished=2026-10-12T14:57:05+05:00 | added_files=0 | changed_files=0 | deleted_files=4 | new_chunks=0 | reindexed_chunks=0 | index_size=527 | errors=0 | duration=0.20s
+2026-10-12 14:57:56,031 | INFO | Index update started | time=2026-10-12T14:57:56+05:00
+2026-10-12 14:57:56,062 | INFO | Detected changes | added=4 | changed=0 | deleted=0
+2026-10-12 14:58:02,578 | INFO | Added: doc_0078.md | chunks=1
+2026-10-12 14:58:02,987 | INFO | Added: doc_0109.md | chunks=3
+2026-10-12 14:58:03,125 | INFO | Added: doc_0166.md | chunks=1
+2026-10-12 14:58:03,398 | INFO | Added: doc_0192.md | chunks=4
+2026-10-12 14:58:03,400 | INFO | Index update completed | started=2026-10-12T14:57:56+05:00 | finished=2026-10-12T14:58:03+05:00 | added_files=4 | changed_files=0 | deleted_files=0 | new_chunks=9 | reindexed_chunks=0 | index_size=536 | errors=0 | duration=7.37s
+2026-10-12 18:05:29,824 | INFO | Index update started | time=2026-10-12T18:05:29+05:00
+2026-10-12 18:05:29,888 | INFO | Detected changes | added=100 | changed=0 | deleted=0
+2026-10-12 18:05:37,382 | INFO | Added: doc_0411.md | chunks=6
+2026-10-12 18:05:37,806 | INFO | Added: doc_0412.md | chunks=9
+2026-10-12 18:05:37,846 | INFO | Added: doc_0413.md | chunks=1
+2026-10-12 18:05:37,968 | INFO | Added: doc_0414.md | chunks=1
+2026-10-12 18:05:38,015 | INFO | Added: doc_0415.md | chunks=1
+2026-10-12 18:05:38,151 | INFO | Added: doc_0416.md | chunks=3
+2026-10-12 18:05:38,188 | INFO | Added: doc_0417.md | chunks=1
+2026-10-12 18:05:38,224 | INFO | Added: doc_0418.md | chunks=1
+2026-10-12 18:05:38,263 | INFO | Added: doc_0419.md | chunks=1
+2026-10-12 18:05:38,358 | INFO | Added: doc_0420.md | chunks=1
+2026-10-12 18:05:38,392 | INFO | Added: doc_0421.md | chunks=1
+2026-10-12 18:05:38,640 | INFO | Added: doc_0422.md | chunks=6
+2026-10-12 18:05:38,691 | INFO | Added: doc_0423.md | chunks=1
+2026-10-12 18:05:38,742 | INFO | Added: doc_0424.md | chunks=1
+2026-10-12 18:05:38,790 | INFO | Added: doc_0425.md | chunks=1
+2026-10-12 18:05:38,829 | INFO | Added: doc_0426.md | chunks=1
+2026-10-12 18:05:38,871 | INFO | Added: doc_0427.md | chunks=1
+2026-10-12 18:05:38,953 | INFO | Added: doc_0428.md | chunks=1
+2026-10-12 18:05:39,094 | INFO | Added: doc_0429.md | chunks=3
+2026-10-12 18:05:39,333 | INFO | Added: doc_0430.md | chunks=6
+2026-10-12 18:05:39,371 | INFO | Added: doc_0431.md | chunks=1
+2026-10-12 18:05:39,583 | INFO | Added: doc_0432.md | chunks=4
+2026-10-12 18:05:39,625 | INFO | Added: doc_0433.md | chunks=1
+2026-10-12 18:05:39,782 | INFO | Added: doc_0434.md | chunks=3
+2026-10-12 18:05:39,837 | INFO | Added: doc_0435.md | chunks=1
+2026-10-12 18:05:39,878 | INFO | Added: doc_0436.md | chunks=1
+2026-10-12 18:05:39,916 | INFO | Added: doc_0437.md | chunks=1
+2026-10-12 18:05:39,969 | INFO | Added: doc_0438.md | chunks=1
+2026-10-12 18:05:40,009 | INFO | Added: doc_0439.md | chunks=1
+2026-10-12 18:05:40,040 | INFO | Added: doc_0440.md | chunks=1
+2026-10-12 18:05:40,077 | INFO | Added: doc_0441.md | chunks=1
+2026-10-12 18:05:40,137 | INFO | Added: doc_0442.md | chunks=1
+2026-10-12 18:05:40,180 | INFO | Added: doc_0443.md | chunks=1
+2026-10-12 18:05:40,221 | INFO | Added: doc_0444.md | chunks=1
+2026-10-12 18:05:40,261 | INFO | Added: doc_0445.md | chunks=1
+2026-10-12 18:05:40,301 | INFO | Added: doc_0446.md | chunks=1
+2026-10-12 18:05:40,350 | INFO | Added: doc_0447.md | chunks=1
+2026-10-12 18:05:40,386 | INFO | Added: doc_0448.md | chunks=1
+2026-10-12 18:05:40,424 | INFO | Added: doc_0449.md | chunks=1
+2026-10-12 18:05:40,458 | INFO | Added: doc_0450.md | chunks=1
+2026-10-12 18:05:40,515 | INFO | Added: doc_0451.md | chunks=1
+2026-10-12 18:05:40,567 | INFO | Added: doc_0452.md | chunks=1
+2026-10-12 18:05:40,606 | INFO | Added: doc_0453.md | chunks=1
+2026-10-12 18:05:40,663 | INFO | Added: doc_0454.md | chunks=1
+2026-10-12 18:05:40,839 | INFO | Added: doc_0455.md | chunks=3
+2026-10-12 18:05:40,878 | INFO | Added: doc_0456.md | chunks=1
+2026-10-12 18:05:40,935 | INFO | Added: doc_0457.md | chunks=1
+2026-10-12 18:05:40,972 | INFO | Added: doc_0458.md | chunks=1
+2026-10-12 18:05:41,016 | INFO | Added: doc_0459.md | chunks=1
+2026-10-12 18:05:41,072 | INFO | Added: doc_0460.md | chunks=1
+2026-10-12 18:05:41,116 | INFO | Added: doc_0461.md | chunks=1
+2026-10-12 18:05:41,282 | INFO | Added: doc_0462.md | chunks=4
+2026-10-12 18:05:41,426 | INFO | Added: doc_0463.md | chunks=3
+2026-10-12 18:05:41,471 | INFO | Added: doc_0464.md | chunks=1
+2026-10-12 18:05:41,524 | INFO | Added: doc_0465.md | chunks=1
+2026-10-12 18:05:41,705 | INFO | Added: doc_0466.md | chunks=3
+2026-10-12 18:05:41,754 | INFO | Added: doc_0467.md | chunks=1
+2026-10-12 18:05:41,931 | INFO | Added: doc_0468.md | chunks=4
+2026-10-12 18:05:41,975 | INFO | Added: doc_0469.md | chunks=1
+2026-10-12 18:05:42,015 | INFO | Added: doc_0470.md | chunks=1
+2026-10-12 18:05:42,053 | INFO | Added: doc_0471.md | chunks=1
+2026-10-12 18:05:42,249 | INFO | Added: doc_0472.md | chunks=3
+2026-10-12 18:05:42,291 | INFO | Added: doc_0473.md | chunks=1
+2026-10-12 18:05:42,332 | INFO | Added: doc_0474.md | chunks=1
+2026-10-12 18:05:42,374 | INFO | Added: doc_0475.md | chunks=1
+2026-10-12 18:05:42,415 | INFO | Added: doc_0476.md | chunks=1
+2026-10-12 18:05:42,456 | INFO | Added: doc_0477.md | chunks=1
+2026-10-12 18:05:42,541 | INFO | Added: doc_0478.md | chunks=2
+2026-10-12 18:05:42,579 | INFO | Added: doc_0479.md | chunks=1
+2026-10-12 18:05:42,909 | INFO | Added: doc_0480.md | chunks=8
+2026-10-12 18:05:43,310 | INFO | Added: doc_0481.md | chunks=10
+2026-10-12 18:05:43,430 | INFO | Added: doc_0482.md | chunks=3
+2026-10-12 18:05:43,478 | INFO | Added: doc_0483.md | chunks=1
+2026-10-12 18:05:43,612 | INFO | Added: doc_0484.md | chunks=3
+2026-10-12 18:05:43,652 | INFO | Added: doc_0485.md | chunks=1
+2026-10-12 18:05:43,690 | INFO | Added: doc_0486.md | chunks=1
+2026-10-12 18:05:43,731 | INFO | Added: doc_0487.md | chunks=1
+2026-10-12 18:05:43,766 | INFO | Added: doc_0488.md | chunks=1
+2026-10-12 18:05:43,816 | INFO | Added: doc_0489.md | chunks=1
+2026-10-12 18:05:43,902 | INFO | Added: doc_0490.md | chunks=1
+2026-10-12 18:05:44,111 | INFO | Added: doc_0491.md | chunks=5
+2026-10-12 18:05:44,153 | INFO | Added: doc_0492.md | chunks=1
+2026-10-12 18:05:44,329 | INFO | Added: doc_0493.md | chunks=4
+2026-10-12 18:05:44,372 | INFO | Added: doc_0494.md | chunks=1
+2026-10-12 18:05:44,408 | INFO | Added: doc_0495.md | chunks=1
+2026-10-12 18:05:44,537 | INFO | Added: doc_0496.md | chunks=3
+2026-10-12 18:05:44,709 | INFO | Added: doc_0497.md | chunks=4
+2026-10-12 18:05:44,848 | INFO | Added: doc_0498.md | chunks=3
+2026-10-12 18:05:44,890 | INFO | Added: doc_0499.md | chunks=1
+2026-10-12 18:05:45,144 | INFO | Added: doc_0500.md | chunks=6
+2026-10-12 18:05:45,180 | INFO | Added: doc_0501.md | chunks=1
+2026-10-12 18:05:45,276 | INFO | Added: doc_0502.md | chunks=1
+2026-10-12 18:05:45,315 | INFO | Added: doc_0503.md | chunks=1
+2026-10-12 18:05:45,373 | INFO | Added: doc_0504.md | chunks=1
+2026-10-12 18:05:45,466 | INFO | Added: doc_0505.md | chunks=1
+2026-10-12 18:05:45,504 | INFO | Added: doc_0506.md | chunks=1
+2026-10-12 18:05:45,543 | INFO | Added: doc_0507.md | chunks=1
+2026-10-12 18:05:45,588 | INFO | Added: doc_0508.md | chunks=1
+2026-10-12 18:05:45,651 | INFO | Added: doc_0509.md | chunks=1
+2026-10-12 18:05:45,692 | INFO | Added: doc_0510.md | chunks=1
+2026-10-12 18:05:45,697 | INFO | Index update completed | started=2026-10-12T18:05:29+05:00 | finished=2026-10-12T18:05:45+05:00 | added_files=100 | changed_files=0 | deleted_files=0 | new_chunks=186 | reindexed_chunks=0 | index_size=967 | errors=0 | duration=15.87s
+2026-10-12 18:44:19,896 | INFO | Index update started | time=2026-10-12T18:44:19+05:00
+2026-10-12 18:44:19,981 | INFO | Detected changes | added=0 | changed=1 | deleted=0
+2026-10-12 18:44:27,535 | INFO | Updated: doc_0102.md | chunks=1
+2026-10-12 18:44:27,539 | INFO | Index update completed | started=2026-10-12T18:44:19+05:00 | finished=2026-10-12T18:44:27+05:00 | added_files=0 | changed_files=1 | deleted_files=0 | new_chunks=0 | reindexed_chunks=1 | index_size=967 | errors=0 | duration=7.64s
+2026-10-12 22:14:15,262 | INFO | Index update started | time=2026-10-12T22:14:15+05:00
+2026-10-12 22:14:15,262 | INFO | Detected changes | added=0 | changed=0 | deleted=510
+2026-10-12 22:14:15,377 | INFO | Deleted: doc_0001.md
+2026-10-12 22:14:15,394 | INFO | Deleted: doc_0002.md
+2026-10-12 22:14:15,410 | INFO | Deleted: doc_0003.md
+2026-10-12 22:14:15,426 | INFO | Deleted: doc_0004.md
+2026-10-12 22:14:15,445 | INFO | Deleted: doc_0005.md
+2026-10-12 22:14:15,466 | INFO | Deleted: doc_0006.md
+2026-10-12 22:14:15,482 | INFO | Deleted: doc_0007.md
+2026-10-12 22:14:15,507 | INFO | Deleted: doc_0008.md
+2026-10-12 22:14:15,525 | INFO | Deleted: doc_0009.md
+2026-10-12 22:14:15,543 | INFO | Deleted: doc_0010.md
+2026-10-12 22:14:15,558 | INFO | Deleted: doc_0011.md
+2026-10-12 22:14:15,574 | INFO | Deleted: doc_0012.md
+2026-10-12 22:14:15,600 | INFO | Deleted: doc_0013.md
+2026-10-12 22:14:15,616 | INFO | Deleted: doc_0014.md
+2026-10-12 22:14:15,637 | INFO | Deleted: doc_0015.md
+2026-10-12 22:14:15,654 | INFO | Deleted: doc_0016.md
+2026-10-12 22:14:15,678 | INFO | Deleted: doc_0017.md
+2026-10-12 22:14:15,695 | INFO | Deleted: doc_0018.md
+2026-10-12 22:14:15,710 | INFO | Deleted: doc_0019.md
+2026-10-12 22:14:15,728 | INFO | Deleted: doc_0020.md
+2026-10-12 22:14:15,743 | INFO | Deleted: doc_0021.md
+2026-10-12 22:14:15,773 | INFO | Deleted: doc_0022.md
+2026-10-12 22:14:15,792 | INFO | Deleted: doc_0023.md
+2026-10-12 22:14:15,831 | INFO | Deleted: doc_0024.md
+2026-10-12 22:14:15,851 | INFO | Deleted: doc_0025.md
+2026-10-12 22:14:15,874 | INFO | Deleted: doc_0026.md
+2026-10-12 22:14:15,891 | INFO | Deleted: doc_0027.md
+2026-10-12 22:14:15,912 | INFO | Deleted: doc_0028.md
+2026-10-12 22:14:15,928 | INFO | Deleted: doc_0029.md
+2026-10-12 22:14:15,946 | INFO | Deleted: doc_0030.md
+2026-10-12 22:14:15,964 | INFO | Deleted: doc_0031.md
+2026-10-12 22:14:15,980 | INFO | Deleted: doc_0032.md
+2026-10-12 22:14:15,997 | INFO | Deleted: doc_0033.md
+2026-10-12 22:14:16,017 | INFO | Deleted: doc_0034.md
+2026-10-12 22:14:16,041 | INFO | Deleted: doc_0035.md
+2026-10-12 22:14:16,056 | INFO | Deleted: doc_0036.md
+2026-10-12 22:14:16,074 | INFO | Deleted: doc_0037.md
+2026-10-12 22:14:16,106 | INFO | Deleted: doc_0038.md
+2026-10-12 22:14:16,123 | INFO | Deleted: doc_0039.md
+2026-10-12 22:14:16,144 | INFO | Deleted: doc_0040.md
+2026-10-12 22:14:16,163 | INFO | Deleted: doc_0041.md
+2026-10-12 22:14:16,182 | INFO | Deleted: doc_0042.md
+2026-10-12 22:14:16,212 | INFO | Deleted: doc_0043.md
+2026-10-12 22:14:16,238 | INFO | Deleted: doc_0044.md
+2026-10-12 22:14:16,264 | INFO | Deleted: doc_0045.md
+2026-10-12 22:14:16,291 | INFO | Deleted: doc_0046.md
+2026-10-12 22:14:16,316 | INFO | Deleted: doc_0047.md
+2026-10-12 22:14:16,380 | INFO | Deleted: doc_0048.md
+2026-10-12 22:14:16,395 | INFO | Deleted: doc_0049.md
+2026-10-12 22:14:16,418 | INFO | Deleted: doc_0050.md
+2026-10-12 22:14:16,435 | INFO | Deleted: doc_0051.md
+2026-10-12 22:14:16,458 | INFO | Deleted: doc_0052.md
+2026-10-12 22:14:16,476 | INFO | Deleted: doc_0053.md
+2026-10-12 22:14:16,494 | INFO | Deleted: doc_0054.md
+2026-10-12 22:14:16,515 | INFO | Deleted: doc_0055.md
+2026-10-12 22:14:16,532 | INFO | Deleted: doc_0056.md
+2026-10-12 22:14:16,548 | INFO | Deleted: doc_0057.md
+2026-10-12 22:14:16,563 | INFO | Deleted: doc_0058.md
+2026-10-12 22:14:16,577 | INFO | Deleted: doc_0059.md
+2026-10-12 22:14:16,595 | INFO | Deleted: doc_0060.md
+2026-10-12 22:14:16,610 | INFO | Deleted: doc_0061.md
+2026-10-12 22:14:16,626 | INFO | Deleted: doc_0062.md
+2026-10-12 22:14:16,641 | INFO | Deleted: doc_0063.md
+2026-10-12 22:14:16,662 | INFO | Deleted: doc_0064.md
+2026-10-12 22:14:16,679 | INFO | Deleted: doc_0065.md
+2026-10-12 22:14:16,700 | INFO | Deleted: doc_0066.md
+2026-10-12 22:14:16,728 | INFO | Deleted: doc_0067.md
+2026-10-12 22:14:16,746 | INFO | Deleted: doc_0068.md
+2026-10-12 22:14:16,763 | INFO | Deleted: doc_0069.md
+2026-10-12 22:14:16,783 | INFO | Deleted: doc_0070.md
+2026-10-12 22:14:16,808 | INFO | Deleted: doc_0071.md
+2026-10-12 22:14:16,830 | INFO | Deleted: doc_0072.md
+2026-10-12 22:14:16,881 | INFO | Deleted: doc_0073.md
+2026-10-12 22:14:16,896 | INFO | Deleted: doc_0074.md
+2026-10-12 22:14:16,915 | INFO | Deleted: doc_0075.md
+2026-10-12 22:14:16,931 | INFO | Deleted: doc_0076.md
+2026-10-12 22:14:16,948 | INFO | Deleted: doc_0077.md
+2026-10-12 22:14:16,963 | INFO | Deleted: doc_0078.md
+2026-10-12 22:14:16,985 | INFO | Deleted: doc_0079.md
+2026-10-12 22:14:17,009 | INFO | Deleted: doc_0080.md
+2026-10-12 22:14:17,034 | INFO | Deleted: doc_0081.md
+2026-10-12 22:14:17,047 | INFO | Deleted: doc_0082.md
+2026-10-12 22:14:17,064 | INFO | Deleted: doc_0083.md
+2026-10-12 22:14:17,079 | INFO | Deleted: doc_0084.md
+2026-10-12 22:14:17,097 | INFO | Deleted: doc_0085.md
+2026-10-12 22:14:17,112 | INFO | Deleted: doc_0086.md
+2026-10-12 22:14:17,131 | INFO | Deleted: doc_0087.md
+2026-10-12 22:14:17,150 | INFO | Deleted: doc_0088.md
+2026-10-12 22:14:17,170 | INFO | Deleted: doc_0089.md
+2026-10-12 22:14:17,189 | INFO | Deleted: doc_0090.md
+2026-10-12 22:14:17,206 | INFO | Deleted: doc_0091.md
+2026-10-12 22:14:17,227 | INFO | Deleted: doc_0092.md
+2026-10-12 22:14:17,246 | INFO | Deleted: doc_0093.md
+2026-10-12 22:14:17,267 | INFO | Deleted: doc_0094.md
+2026-10-12 22:14:17,283 | INFO | Deleted: doc_0095.md
+2026-10-12 22:14:17,304 | INFO | Deleted: doc_0096.md
+2026-10-12 22:14:17,322 | INFO | Deleted: doc_0097.md
+2026-10-12 22:14:17,344 | INFO | Deleted: doc_0098.md
+2026-10-12 22:14:17,359 | INFO | Deleted: doc_0099.md
+2026-10-12 22:14:17,384 | INFO | Deleted: doc_0100.md
+2026-10-12 22:14:17,403 | INFO | Deleted: doc_0101.md
+2026-10-12 22:14:17,421 | INFO | Deleted: doc_0102.md
+2026-10-12 22:14:17,440 | INFO | Deleted: doc_0103.md
+2026-10-12 22:14:17,468 | INFO | Deleted: doc_0104.md
+2026-10-12 22:14:17,490 | INFO | Deleted: doc_0105.md
+2026-10-12 22:14:17,507 | INFO | Deleted: doc_0106.md
+2026-10-12 22:14:17,524 | INFO | Deleted: doc_0107.md
+2026-10-12 22:14:17,541 | INFO | Deleted: doc_0108.md
+2026-10-12 22:14:17,561 | INFO | Deleted: doc_0109.md
+2026-10-12 22:14:17,578 | INFO | Deleted: doc_0110.md
+2026-10-12 22:14:17,603 | INFO | Deleted: doc_0111.md
+2026-10-12 22:14:17,623 | INFO | Deleted: doc_0112.md
+2026-10-12 22:14:17,649 | INFO | Deleted: doc_0113.md
+2026-10-12 22:14:17,671 | INFO | Deleted: doc_0114.md
+2026-10-12 22:14:17,686 | INFO | Deleted: doc_0115.md
+2026-10-12 22:14:17,706 | INFO | Deleted: doc_0116.md
+2026-10-12 22:14:17,723 | INFO | Deleted: doc_0117.md
+2026-10-12 22:14:17,739 | INFO | Deleted: doc_0118.md
+2026-10-12 22:14:17,754 | INFO | Deleted: doc_0119.md
+2026-10-12 22:14:17,771 | INFO | Deleted: doc_0120.md
+2026-10-12 22:14:17,796 | INFO | Deleted: doc_0121.md
+2026-10-12 22:14:17,816 | INFO | Deleted: doc_0122.md
+2026-10-12 22:14:17,841 | INFO | Deleted: doc_0123.md
+2026-10-12 22:14:17,862 | INFO | Deleted: doc_0124.md
+2026-10-12 22:14:17,883 | INFO | Deleted: doc_0125.md
+2026-10-12 22:14:17,903 | INFO | Deleted: doc_0126.md
+2026-10-12 22:14:17,924 | INFO | Deleted: doc_0127.md
+2026-10-12 22:14:17,940 | INFO | Deleted: doc_0128.md
+2026-10-12 22:14:17,959 | INFO | Deleted: doc_0129.md
+2026-10-12 22:14:17,978 | INFO | Deleted: doc_0130.md
+2026-10-12 22:14:17,997 | INFO | Deleted: doc_0131.md
+2026-10-12 22:14:18,016 | INFO | Deleted: doc_0132.md
+2026-10-12 22:14:18,039 | INFO | Deleted: doc_0133.md
+2026-10-12 22:14:18,055 | INFO | Deleted: doc_0134.md
+2026-10-12 22:14:18,072 | INFO | Deleted: doc_0135.md
+2026-10-12 22:14:18,092 | INFO | Deleted: doc_0136.md
+2026-10-12 22:14:18,114 | INFO | Deleted: doc_0137.md
+2026-10-12 22:14:18,135 | INFO | Deleted: doc_0138.md
+2026-10-12 22:14:18,157 | INFO | Deleted: doc_0139.md
+2026-10-12 22:14:18,179 | INFO | Deleted: doc_0140.md
+2026-10-12 22:14:18,197 | INFO | Deleted: doc_0141.md
+2026-10-12 22:14:18,219 | INFO | Deleted: doc_0142.md
+2026-10-12 22:14:18,234 | INFO | Deleted: doc_0143.md
+2026-10-12 22:14:18,256 | INFO | Deleted: doc_0144.md
+2026-10-12 22:14:18,272 | INFO | Deleted: doc_0145.md
+2026-10-12 22:14:18,287 | INFO | Deleted: doc_0146.md
+2026-10-12 22:14:18,307 | INFO | Deleted: doc_0147.md
+2026-10-12 22:14:18,324 | INFO | Deleted: doc_0148.md
+2026-10-12 22:14:18,339 | INFO | Deleted: doc_0149.md
+2026-10-12 22:14:18,357 | INFO | Deleted: doc_0150.md
+2026-10-12 22:14:18,377 | INFO | Deleted: doc_0151.md
+2026-10-12 22:14:18,401 | INFO | Deleted: doc_0152.md
+2026-10-12 22:14:18,419 | INFO | Deleted: doc_0153.md
+2026-10-12 22:14:18,434 | INFO | Deleted: doc_0154.md
+2026-10-12 22:14:18,451 | INFO | Deleted: doc_0155.md
+2026-10-12 22:14:18,468 | INFO | Deleted: doc_0156.md
+2026-10-12 22:14:18,487 | INFO | Deleted: doc_0157.md
+2026-10-12 22:14:18,505 | INFO | Deleted: doc_0158.md
+2026-10-12 22:14:18,534 | INFO | Deleted: doc_0159.md
+2026-10-12 22:14:18,552 | INFO | Deleted: doc_0160.md
+2026-10-12 22:14:18,569 | INFO | Deleted: doc_0161.md
+2026-10-12 22:14:18,585 | INFO | Deleted: doc_0162.md
+2026-10-12 22:14:18,608 | INFO | Deleted: doc_0163.md
+2026-10-12 22:14:18,627 | INFO | Deleted: doc_0164.md
+2026-10-12 22:14:18,651 | INFO | Deleted: doc_0165.md
+2026-10-12 22:14:18,674 | INFO | Deleted: doc_0166.md
+2026-10-12 22:14:18,695 | INFO | Deleted: doc_0167.md
+2026-10-12 22:14:18,717 | INFO | Deleted: doc_0168.md
+2026-10-12 22:14:18,732 | INFO | Deleted: doc_0169.md
+2026-10-12 22:14:18,747 | INFO | Deleted: doc_0170.md
+2026-10-12 22:14:18,764 | INFO | Deleted: doc_0171.md
+2026-10-12 22:14:18,838 | INFO | Deleted: doc_0172.md
+2026-10-12 22:14:18,863 | INFO | Deleted: doc_0173.md
+2026-10-12 22:14:18,880 | INFO | Deleted: doc_0174.md
+2026-10-12 22:14:18,899 | INFO | Deleted: doc_0175.md
+2026-10-12 22:14:18,915 | INFO | Deleted: doc_0176.md
+2026-10-12 22:14:18,932 | INFO | Deleted: doc_0177.md
+2026-10-12 22:14:18,954 | INFO | Deleted: doc_0178.md
+2026-10-12 22:14:18,993 | INFO | Deleted: doc_0179.md
+2026-10-12 22:14:19,010 | INFO | Deleted: doc_0180.md
+2026-10-12 22:14:19,024 | INFO | Deleted: doc_0181.md
+2026-10-12 22:14:19,050 | INFO | Deleted: doc_0182.md
+2026-10-12 22:14:19,067 | INFO | Deleted: doc_0183.md
+2026-10-12 22:14:19,084 | INFO | Deleted: doc_0184.md
+2026-10-12 22:14:19,100 | INFO | Deleted: doc_0185.md
+2026-10-12 22:14:19,116 | INFO | Deleted: doc_0186.md
+2026-10-12 22:14:19,132 | INFO | Deleted: doc_0187.md
+2026-10-12 22:14:19,154 | INFO | Deleted: doc_0188.md
+2026-10-12 22:14:19,170 | INFO | Deleted: doc_0189.md
+2026-10-12 22:14:19,185 | INFO | Deleted: doc_0190.md
+2026-10-12 22:14:19,203 | INFO | Deleted: doc_0191.md
+2026-10-12 22:14:19,220 | INFO | Deleted: doc_0192.md
+2026-10-12 22:14:19,236 | INFO | Deleted: doc_0193.md
+2026-10-12 22:14:19,251 | INFO | Deleted: doc_0194.md
+2026-10-12 22:14:19,270 | INFO | Deleted: doc_0195.md
+2026-10-12 22:14:19,286 | INFO | Deleted: doc_0196.md
+2026-10-12 22:14:19,305 | INFO | Deleted: doc_0197.md
+2026-10-12 22:14:19,325 | INFO | Deleted: doc_0198.md
+2026-10-12 22:14:19,358 | INFO | Deleted: doc_0199.md
+2026-10-12 22:14:19,374 | INFO | Deleted: doc_0200.md
+2026-10-12 22:14:19,391 | INFO | Deleted: doc_0201.md
+2026-10-12 22:14:19,406 | INFO | Deleted: doc_0202.md
+2026-10-12 22:14:19,422 | INFO | Deleted: doc_0203.md
+2026-10-12 22:14:19,440 | INFO | Deleted: doc_0204.md
+2026-10-12 22:14:19,457 | INFO | Deleted: doc_0205.md
+2026-10-12 22:16:14,845 | INFO | Index update started | time=2026-10-12T22:16:14+05:00
+2026-10-12 22:16:14,859 | INFO | Detected changes | added=0 | changed=94 | deleted=0
+2026-10-12 22:16:21,777 | INFO | Updated: doc_0001.md | chunks=4
+2026-10-12 22:16:21,960 | INFO | Updated: doc_0013.md | chunks=4
+2026-10-12 22:16:22,108 | INFO | Updated: doc_0017.md | chunks=3
+2026-10-12 22:16:22,329 | INFO | Updated: doc_0022.md | chunks=5
+2026-10-12 22:16:22,682 | INFO | Updated: doc_0024.md | chunks=8
+2026-10-12 22:16:22,742 | INFO | Updated: doc_0030.md | chunks=1
+2026-10-12 22:16:22,787 | INFO | Updated: doc_0033.md | chunks=1
+2026-10-12 22:16:23,001 | INFO | Updated: doc_0035.md | chunks=5
+2026-10-12 22:16:23,044 | INFO | Updated: doc_0044.md | chunks=1
+2026-10-12 22:16:24,199 | INFO | Updated: doc_0048.md | chunks=26
+2026-10-12 22:16:24,302 | INFO | Updated: doc_0050.md | chunks=2
+2026-10-12 22:16:24,480 | INFO | Updated: doc_0052.md | chunks=4
+2026-10-12 22:16:24,528 | INFO | Updated: doc_0055.md | chunks=1
+2026-10-12 22:16:24,570 | INFO | Updated: doc_0059.md | chunks=1
+2026-10-12 22:16:24,622 | INFO | Updated: doc_0060.md | chunks=1
+2026-10-12 22:16:24,669 | INFO | Updated: doc_0076.md | chunks=1
+2026-10-12 22:16:24,904 | INFO | Updated: doc_0079.md | chunks=5
+2026-10-12 22:16:24,949 | INFO | Updated: doc_0084.md | chunks=1
+2026-10-12 22:16:25,092 | INFO | Updated: doc_0090.md | chunks=3
+2026-10-12 22:16:25,219 | INFO | Updated: doc_0092.md | chunks=3
+2026-10-12 22:16:25,363 | INFO | Updated: doc_0096.md | chunks=3
+2026-10-12 22:16:25,436 | INFO | Updated: doc_0098.md | chunks=1
+2026-10-12 22:16:25,598 | INFO | Updated: doc_0101.md | chunks=4
+2026-10-12 22:16:25,878 | INFO | Updated: doc_0104.md | chunks=7
+2026-10-12 22:16:26,022 | INFO | Updated: doc_0105.md | chunks=3
+2026-10-12 22:16:26,071 | INFO | Updated: doc_0111.md | chunks=1
+2026-10-12 22:16:26,130 | INFO | Updated: doc_0112.md | chunks=1
+2026-10-12 22:16:26,183 | INFO | Updated: doc_0122.md | chunks=1
+2026-10-12 22:16:26,236 | INFO | Updated: doc_0125.md | chunks=1
+2026-10-12 22:16:26,286 | INFO | Updated: doc_0127.md | chunks=1
+2026-10-12 22:16:26,330 | INFO | Updated: doc_0132.md | chunks=1
+2026-10-12 22:16:26,383 | INFO | Updated: doc_0141.md | chunks=1
+2026-10-12 22:16:26,439 | INFO | Updated: doc_0149.md | chunks=1
+2026-10-12 22:16:26,584 | INFO | Updated: doc_0160.md | chunks=3
+2026-10-12 22:16:26,909 | INFO | Updated: doc_0165.md | chunks=8
+2026-10-12 22:16:27,132 | INFO | Updated: doc_0173.md | chunks=5
+2026-10-12 22:16:27,483 | INFO | Updated: doc_0179.md | chunks=8
+2026-10-12 22:16:27,558 | INFO | Updated: doc_0195.md | chunks=1
+2026-10-12 22:16:27,604 | INFO | Updated: doc_0200.md | chunks=1
+2026-10-12 22:16:27,660 | INFO | Updated: doc_0201.md | chunks=1
+2026-10-12 22:16:27,709 | INFO | Updated: doc_0202.md | chunks=1
+2026-10-12 22:16:27,754 | INFO | Updated: doc_0205.md | chunks=1
+2026-10-12 22:16:27,807 | INFO | Updated: doc_0207.md | chunks=1
+2026-10-12 22:16:27,890 | INFO | Updated: doc_0212.md | chunks=1
+2026-10-12 22:16:27,958 | INFO | Updated: doc_0215.md | chunks=1
+2026-10-12 22:16:28,017 | INFO | Updated: doc_0223.md | chunks=1
+2026-10-12 22:16:28,121 | INFO | Updated: doc_0227.md | chunks=2
+2026-10-12 22:16:28,499 | INFO | Updated: doc_0230.md | chunks=8
+2026-10-12 22:16:28,579 | INFO | Updated: doc_0231.md | chunks=1
+2026-10-12 22:16:28,655 | INFO | Updated: doc_0243.md | chunks=1
+2026-10-12 22:16:28,850 | INFO | Updated: doc_0244.md | chunks=4
+2026-10-12 22:16:28,989 | INFO | Updated: doc_0250.md | chunks=2
+2026-10-12 22:16:29,149 | INFO | Updated: doc_0255.md | chunks=3
+2026-10-12 22:16:29,222 | INFO | Updated: doc_0258.md | chunks=1
+2026-10-12 22:16:29,434 | INFO | Updated: doc_0267.md | chunks=4
+2026-10-12 22:16:29,549 | INFO | Updated: doc_0269.md | chunks=1
+2026-10-12 22:16:29,618 | INFO | Updated: doc_0273.md | chunks=1
+2026-10-12 22:16:29,692 | INFO | Updated: doc_0275.md | chunks=1
+2026-10-12 22:16:29,771 | INFO | Updated: doc_0279.md | chunks=1
+2026-10-12 22:16:29,930 | INFO | Updated: doc_0281.md | chunks=3
+2026-10-12 22:16:30,002 | INFO | Updated: doc_0288.md | chunks=1
+2026-10-12 22:16:30,182 | INFO | Updated: doc_0290.md | chunks=3
+2026-10-12 22:16:30,657 | INFO | Updated: doc_0300.md | chunks=11
+2026-10-12 22:16:30,721 | INFO | Updated: doc_0303.md | chunks=1
+2026-10-12 22:16:30,779 | INFO | Updated: doc_0311.md | chunks=1
+2026-10-12 22:16:30,945 | INFO | Updated: doc_0317.md | chunks=3
+2026-10-12 22:16:31,028 | INFO | Updated: doc_0318.md | chunks=1
+2026-10-12 22:16:31,097 | INFO | Updated: doc_0320.md | chunks=1
+2026-10-12 22:16:31,435 | INFO | Updated: doc_0324.md | chunks=7
+2026-10-12 22:16:31,501 | INFO | Updated: doc_0326.md | chunks=1
+2026-10-12 22:16:31,821 | INFO | Updated: doc_0330.md | chunks=7
+2026-10-12 22:16:31,894 | INFO | Updated: doc_0343.md | chunks=1
+2026-10-12 22:16:31,966 | INFO | Updated: doc_0344.md | chunks=1
+2026-10-12 22:16:32,174 | INFO | Updated: doc_0347.md | chunks=4
+2026-10-12 22:16:32,417 | INFO | Updated: doc_0360.md | chunks=5
+2026-10-12 22:16:32,576 | INFO | Updated: doc_0364.md | chunks=3
+2026-10-12 22:16:32,777 | INFO | Updated: doc_0382.md | chunks=4
+2026-10-12 22:16:32,852 | INFO | Updated: doc_0385.md | chunks=1
+2026-10-12 22:16:33,017 | INFO | Updated: doc_0387.md | chunks=3
+2026-10-12 22:16:33,232 | INFO | Updated: doc_0391.md | chunks=4
+2026-10-12 22:16:33,445 | INFO | Updated: doc_0404.md | chunks=4
+2026-10-12 22:16:33,730 | INFO | Updated: doc_0430.md | chunks=6
+2026-10-12 22:16:33,824 | INFO | Updated: doc_0438.md | chunks=1
+2026-10-12 22:16:33,905 | INFO | Updated: doc_0447.md | chunks=1
+2026-10-12 22:16:33,992 | INFO | Updated: doc_0452.md | chunks=1
+2026-10-12 22:16:34,164 | INFO | Updated: doc_0455.md | chunks=3
+2026-10-12 22:16:34,252 | INFO | Updated: doc_0460.md | chunks=1
+2026-10-12 22:16:34,459 | INFO | Updated: doc_0462.md | chunks=4
+2026-10-12 22:16:34,629 | INFO | Updated: doc_0463.md | chunks=3
+2026-10-12 22:16:34,688 | INFO | Updated: doc_0470.md | chunks=1
+2026-10-12 22:16:35,064 | INFO | Updated: doc_0480.md | chunks=8
+2026-10-12 22:16:35,496 | INFO | Updated: doc_0481.md | chunks=10
+2026-10-12 22:16:35,566 | INFO | Updated: doc_0488.md | chunks=1
+2026-10-12 22:16:36,129 | INFO | Updated: doc_0500.md | chunks=6
+2026-10-12 22:16:36,131 | INFO | Index update completed | started=2026-10-12T22:16:14+05:00 | finished=2026-10-12T22:16:36+05:00 | added_files=0 | changed_files=94 | deleted_files=0 | new_chunks=0 | reindexed_chunks=285 | index_size=709 | errors=0 | duration=21.28s
+2026-10-12 23:30:16,651 | INFO | Index update started | time=2026-10-12T23:30:16+05:00
+2026-10-12 23:30:16,712 | INFO | Detected changes | added=1 | changed=1 | deleted=0
+2026-10-12 23:30:23,563 | INFO | Added: doc_0511.md | chunks=1
+2026-10-12 23:30:23,812 | INFO | Updated: doc_0173.md | chunks=5
+2026-10-12 23:30:23,815 | INFO | Index update completed | started=2026-10-12T23:30:16+05:00 | finished=2026-10-12T23:30:23+05:00 | added_files=1 | changed_files=1 | deleted_files=0 | new_chunks=1 | reindexed_chunks=5 | index_size=710 | errors=0 | duration=7.16s
+2026-10-12 23:36:05,541 | INFO | Index update started | time=2026-10-12T23:36:05+05:00
+2026-10-12 23:36:05,597 | INFO | Detected changes | added=4 | changed=0 | deleted=0
+2026-10-12 23:36:11,519 | INFO | Added: doc_0512.md | chunks=1
+2026-10-12 23:36:11,549 | INFO | Added: doc_0513.md | chunks=1
+2026-10-12 23:36:11,627 | INFO | Added: doc_0514.md | chunks=1
+2026-10-12 23:36:11,660 | INFO | Added: doc_0515.md | chunks=1
+2026-10-12 23:36:11,662 | INFO | Index update completed | started=2026-10-12T23:36:05+05:00 | finished=2026-10-12T23:36:11+05:00 | added_files=4 | changed_files=0 | deleted_files=0 | new_chunks=4 | reindexed_chunks=0 | index_size=714 | errors=0 | duration=6.12s
+2026-10-12 23:37:00,781 | INFO | Index update started | time=2026-10-12T23:37:00+05:00
+2026-10-12 23:37:00,834 | INFO | Detected changes | added=0 | changed=1 | deleted=0
+2026-10-12 23:37:06,300 | INFO | Updated: doc_0511.md | chunks=1
+2026-10-12 23:37:06,302 | INFO | Index update completed | started=2026-10-12T23:37:00+05:00 | finished=2026-10-12T23:37:06+05:00 | added_files=0 | changed_files=1 | deleted_files=0 | new_chunks=0 | reindexed_chunks=1 | index_size=714 | errors=0 | duration=5.52s
+2026-10-12 23:40:30,659 | INFO | Index update started | time=2026-10-12T23:40:30+05:00
+2026-10-12 23:40:30,720 | INFO | Detected changes | added=0 | changed=1 | deleted=0
+2026-10-12 23:40:36,491 | INFO | Updated: doc_0513.md | chunks=1
+2026-10-12 23:40:36,493 | INFO | Index update completed | started=2026-10-12T23:40:30+05:00 | finished=2026-10-12T23:40:36+05:00 | added_files=0 | changed_files=1 | deleted_files=0 | new_chunks=0 | reindexed_chunks=1 | index_size=714 | errors=0 | duration=5.83s
+2026-10-12 23:52:00,434 | INFO | Index update started | time=2026-10-12T23:52:00+05:00
+2026-10-12 23:52:00,497 | INFO | Detected changes | added=0 | changed=1 | deleted=0
+2026-10-12 23:52:06,778 | INFO | Updated: doc_0515.md | chunks=1
+2026-10-12 23:52:06,780 | INFO | Index update completed | started=2026-10-12T23:52:00+05:00 | finished=2026-10-12T23:52:06+05:00 | added_files=0 | changed_files=1 | deleted_files=0 | new_chunks=0 | reindexed_chunks=1 | index_size=714 | errors=0 | duration=6.34s
+2026-10-12 23:55:10,205 | INFO | Index update started | time=2026-10-12T23:55:10+05:00
+2026-10-12 23:55:10,260 | INFO | Detected changes | added=0 | changed=0 | deleted=0
+2026-10-12 23:55:10,312 | INFO | Index update completed | started=2026-10-12T23:55:10+05:00 | finished=2026-10-12T23:55:10+05:00 | added_files=0 | changed_files=0 | deleted_files=0 | new_chunks=0 | reindexed_chunks=0 | index_size=714 | errors=0 | duration=0.11s
+2026-10-13 00:39:52,010 | INFO | Index update started | time=2026-10-13T00:39:52+05:00
+2026-10-13 00:39:52,064 | INFO | Detected changes | added=1 | changed=0 | deleted=0
+2026-10-13 00:39:58,749 | INFO | Added: doc_0516.md | chunks=1
+2026-10-13 00:39:58,752 | INFO | Index update completed | started=2026-10-13T00:39:52+05:00 | finished=2026-10-13T00:39:58+05:00 | added_files=1 | changed_files=0 | deleted_files=0 | new_chunks=1 | reindexed_chunks=0 | index_size=715 | errors=0 | duration=6.74s
+2026-10-13 00:58:21,767 | INFO | Index update started | time=2026-10-13T00:58:21+05:00
+2026-10-13 00:58:21,778 | INFO | Detected changes | added=0 | changed=57 | deleted=0
+2026-10-13 00:58:28,422 | INFO | Updated: doc_0006.md | chunks=1
+2026-10-13 00:58:28,484 | INFO | Updated: doc_0045.md | chunks=1
+2026-10-13 00:58:29,642 | INFO | Updated: doc_0048.md | chunks=26
+2026-10-13 00:58:29,835 | INFO | Updated: doc_0052.md | chunks=4
+2026-10-13 00:58:29,886 | INFO | Updated: doc_0074.md | chunks=1
+2026-10-13 00:58:29,948 | INFO | Updated: doc_0075.md | chunks=1
+2026-10-13 00:58:29,989 | INFO | Updated: doc_0078.md | chunks=1
+2026-10-13 00:58:30,038 | INFO | Updated: doc_0083.md | chunks=1
+2026-10-13 00:58:30,183 | INFO | Updated: doc_0096.md | chunks=3
+2026-10-13 00:58:30,517 | INFO | Updated: doc_0104.md | chunks=7
+2026-10-13 00:58:30,578 | INFO | Updated: doc_0119.md | chunks=1
+2026-10-13 00:58:30,705 | INFO | Updated: doc_0126.md | chunks=1
+2026-10-13 00:58:30,876 | INFO | Updated: doc_0133.md | chunks=4
+2026-10-13 00:58:31,018 | INFO | Updated: doc_0142.md | chunks=3
+2026-10-13 00:58:31,062 | INFO | Updated: doc_0143.md | chunks=1
+2026-10-13 00:58:31,101 | INFO | Updated: doc_0145.md | chunks=1
+2026-10-13 00:58:31,331 | INFO | Updated: doc_0152.md | chunks=5
+2026-10-13 00:58:31,464 | INFO | Updated: doc_0153.md | chunks=3
+2026-10-13 00:58:31,650 | INFO | Updated: doc_0159.md | chunks=5
+2026-10-13 00:58:31,688 | INFO | Updated: doc_0166.md | chunks=1
+2026-10-13 00:58:31,907 | INFO | Updated: doc_0173.md | chunks=5
+2026-10-13 00:58:31,955 | INFO | Updated: doc_0184.md | chunks=1
+2026-10-13 00:58:32,005 | INFO | Updated: doc_0191.md | chunks=1
+2026-10-13 00:58:32,059 | INFO | Updated: doc_0225.md | chunks=1
+2026-10-13 00:58:32,114 | INFO | Updated: doc_0232.md | chunks=1
+2026-10-13 00:58:32,291 | INFO | Updated: doc_0233.md | chunks=4
+2026-10-13 00:58:32,469 | INFO | Updated: doc_0234.md | chunks=4
+2026-10-13 00:58:32,533 | INFO | Updated: doc_0238.md | chunks=1
+2026-10-13 00:58:32,578 | INFO | Updated: doc_0241.md | chunks=1
+2026-10-13 00:58:32,638 | INFO | Updated: doc_0242.md | chunks=1
+2026-10-13 00:58:33,134 | INFO | Updated: doc_0245.md | chunks=12
+2026-10-13 00:58:33,476 | INFO | Updated: doc_0246.md | chunks=8
+2026-10-13 00:58:33,621 | INFO | Updated: doc_0248.md | chunks=3
+2026-10-13 00:58:33,668 | INFO | Updated: doc_0251.md | chunks=1
+2026-10-13 00:58:33,798 | INFO | Updated: doc_0255.md | chunks=3
+2026-10-13 00:58:34,057 | INFO | Updated: doc_0301.md | chunks=6
+2026-10-13 00:58:34,105 | INFO | Updated: doc_0308.md | chunks=1
+2026-10-13 00:58:34,176 | INFO | Updated: doc_0325.md | chunks=1
+2026-10-13 00:58:34,226 | INFO | Updated: doc_0344.md | chunks=1
+2026-10-13 00:58:34,271 | INFO | Updated: doc_0380.md | chunks=1
+2026-10-13 00:58:34,416 | INFO | Updated: doc_0381.md | chunks=3
+2026-10-13 00:58:34,597 | INFO | Updated: doc_0382.md | chunks=4
+2026-10-13 00:58:34,756 | INFO | Updated: doc_0387.md | chunks=3
+2026-10-13 00:58:34,802 | INFO | Updated: doc_0392.md | chunks=1
+2026-10-13 00:58:34,851 | INFO | Updated: doc_0393.md | chunks=1
+2026-10-13 00:58:35,236 | INFO | Updated: doc_0412.md | chunks=9
+2026-10-13 00:58:35,494 | INFO | Updated: doc_0430.md | chunks=6
+2026-10-13 00:58:35,686 | INFO | Updated: doc_0432.md | chunks=4
+2026-10-13 00:58:35,748 | INFO | Updated: doc_0448.md | chunks=1
+2026-10-13 00:58:35,892 | INFO | Updated: doc_0466.md | chunks=3
+2026-10-13 00:58:35,943 | INFO | Updated: doc_0469.md | chunks=1
+2026-10-13 00:58:35,995 | INFO | Updated: doc_0475.md | chunks=1
+2026-10-13 00:58:36,049 | INFO | Updated: doc_0476.md | chunks=1
+2026-10-13 00:58:36,098 | INFO | Updated: doc_0486.md | chunks=1
+2026-10-13 00:58:36,244 | INFO | Updated: doc_0496.md | chunks=3
+2026-10-13 00:58:36,428 | INFO | Updated: doc_0497.md | chunks=4
+2026-10-13 00:58:36,498 | INFO | Updated: doc_0502.md | chunks=1
+2026-10-13 00:58:36,500 | INFO | Index update completed | started=2026-10-13T00:58:21+05:00 | finished=2026-10-13T00:58:36+05:00 | added_files=0 | changed_files=57 | deleted_files=0 | new_chunks=0 | reindexed_chunks=175 | index_size=748 | errors=0 | duration=14.73s
+2026-10-13 01:08:17,338 | INFO | Index update started | time=2026-10-13T01:08:17+05:00
+2026-10-13 01:08:17,350 | INFO | Detected changes | added=0 | changed=1 | deleted=0
+2026-10-13 01:08:23,479 | INFO | Updated: doc_0100.md | chunks=5
+2026-10-13 01:08:23,482 | INFO | Index update completed | started=2026-10-13T01:08:17+05:00 | finished=2026-10-13T01:08:23+05:00 | added_files=0 | changed_files=1 | deleted_files=0 | new_chunks=0 | reindexed_chunks=5 | index_size=753 | errors=0 | duration=6.14s
+2026-10-13 01:09:54,510 | INFO | Index update started | time=2026-10-13T01:09:54+05:00
+2026-10-13 01:09:54,522 | INFO | Detected changes | added=0 | changed=3 | deleted=0
+2026-10-13 01:10:00,120 | INFO | Updated: doc_0003.md | chunks=1
+2026-10-13 01:10:00,168 | INFO | Updated: doc_0102.md | chunks=1
+2026-10-13 01:10:00,211 | INFO | Updated: doc_0157.md | chunks=1
+2026-10-13 01:10:00,213 | INFO | Index update completed | started=2026-10-13T01:09:54+05:00 | finished=2026-10-13T01:10:00+05:00 | added_files=0 | changed_files=3 | deleted_files=0 | new_chunks=0 | reindexed_chunks=3 | index_size=756 | errors=0 | duration=5.70s

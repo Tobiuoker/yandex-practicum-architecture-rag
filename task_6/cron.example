@@ -1,0 +1,2 @@
+# Run the whole pipeline every day at 00:00.
+0 0 * * * flock -n /tmp/rag_update.lock /Users/khgamri/Desktop/python/witcher_rag/task_6/daily_update.sh >> /Users/khgamri/Desktop/python/witcher_rag/logs/daily_update.log 2>&1
