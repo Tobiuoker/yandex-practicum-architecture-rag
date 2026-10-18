@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "character",
+    "category": "Category:The_Witcher_3_characters"
+  },
+  {
+    "kind": "character",
+    "category": "Category:Witchers"
+  },
+  {
+    "kind": "character",
+    "category": "Category:Mages"
+  },
+  {
+    "kind": "creature",
+    "category": "Category:Creatures"
+  },
+  {
+    "kind": "location",
+    "category": "Category:Locations"
+  },
+  {
+    "kind": "item",
+    "category": "Category:The_Witcher_3_armor"
+  }
+]

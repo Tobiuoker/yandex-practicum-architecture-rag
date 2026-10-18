@@ -1,0 +1,3068 @@
+[
+  {
+    "file": "doc_0001.md",
+    "kind": "creature",
+    "original_title": "Munro Bruys",
+    "replacement": "Kerr Stalker"
+  },
+  {
+    "file": "doc_0002.md",
+    "kind": "creature",
+    "original_title": "Deer",
+    "replacement": "Cunningham Spawn"
+  },
+  {
+    "file": "doc_0003.md",
+    "kind": "location",
+    "original_title": "Crow's Perch",
+    "replacement": "Schroeder March"
+  },
+  {
+    "file": "doc_0004.md",
+    "kind": "creature",
+    "original_title": "Nikefor Muus",
+    "replacement": "Fields Beast"
+  },
+  {
+    "file": "doc_0005.md",
+    "kind": "creature",
+    "original_title": "Fletcher",
+    "replacement": "Brown Wraith"
+  },
+  {
+    "file": "doc_0006.md",
+    "kind": "location",
+    "original_title": "Temeria's Intelligence Service",
+    "replacement": "Calhoun Moor"
+  },
+  {
+    "file": "doc_0007.md",
+    "kind": "item",
+    "original_title": "Mastercrafted legendary Wolven gauntlets",
+    "replacement": "Smith Relic"
+  },
+  {
+    "file": "doc_0008.md",
+    "kind": "location",
+    "original_title": "Tor Lara",
+    "replacement": "Hampton Hold"
+  },
+  {
+    "file": "doc_0009.md",
+    "kind": "item",
+    "original_title": "Ornate robe",
+    "replacement": "Cunningham Sigil"
+  },
+  {
+    "file": "doc_0010.md",
+    "kind": "item",
+    "original_title": "Skellige Armor set",
+    "replacement": "Perez Talisman"
+  },
+  {
+    "file": "doc_0011.md",
+    "kind": "item",
+    "original_title": "Forgotten Wolven gauntlets",
+    "replacement": "Guerrero Charm"
+  },
+  {
+    "file": "doc_0012.md",
+    "kind": "item",
+    "original_title": "Grandmaster legendary Feline trousers",
+    "replacement": "Sanders Charm"
+  },
+  {
+    "file": "doc_0013.md",
+    "kind": "character",
+    "original_title": "Carduin",
+    "replacement": "Nicholas Torres"
+  },
+  {
+    "file": "doc_0014.md",
+    "kind": "character",
+    "original_title": "Ivo Richert",
+    "replacement": "Nicholas Barr"
+  },
+  {
+    "file": "doc_0015.md",
+    "kind": "creature",
+    "original_title": "Vertz",
+    "replacement": "Roberson Crawler"
+  },
+  {
+    "file": "doc_0016.md",
+    "kind": "character",
+    "original_title": "Medic (Oxenfurt Morgue)",
+    "replacement": "Rose Chapman"
+  },
+  {
+    "file": "doc_0017.md",
+    "kind": "character",
+    "original_title": "Carlo Varese",
+    "replacement": "Mary Frost"
+  },
+  {
+    "file": "doc_0018.md",
+    "kind": "creature",
+    "original_title": "Scarab Thyssen",
+    "replacement": "Anderson Stalker"
+  },
+  {
+    "file": "doc_0019.md",
+    "kind": "creature",
+    "original_title": "Egon",
+    "replacement": "Pierce Crawler"
+  },
+  {
+    "file": "doc_0020.md",
+    "kind": "location",
+    "original_title": "Castel Ravello Vineyard",
+    "replacement": "Wise Coast"
+  },
+  {
+    "file": "doc_0021.md",
+    "kind": "location",
+    "original_title": "Dorian",
+    "replacement": "Rosario Fen"
+  },
+  {
+    "file": "doc_0022.md",
+    "kind": "location",
+    "original_title": "Lyria and Rivia",
+    "replacement": "Ward Moor"
+  },
+  {
+    "file": "doc_0023.md",
+    "kind": "character",
+    "original_title": "Guy de Bois-Fresnes",
+    "replacement": "Patricia Savage"
+  },
+  {
+    "file": "doc_0024.md",
+    "kind": "creature",
+    "original_title": "Werewolf",
+    "replacement": "Russell Howler"
+  },
+  {
+    "file": "doc_0025.md",
+    "kind": "item",
+    "original_title": "Possession (glyphword)",
+    "replacement": "Anderson Sigil"
+  },
+  {
+    "file": "doc_0026.md",
+    "kind": "creature",
+    "original_title": "Heloiza Thyssen",
+    "replacement": "Martin Stalker"
+  },
+  {
+    "file": "doc_0027.md",
+    "kind": "character",
+    "original_title": "Merchant (Silverton)",
+    "replacement": "Stacy Jackson"
+  },
+  {
+    "file": "doc_0028.md",
+    "kind": "item",
+    "original_title": "Temerian Armor set",
+    "replacement": "Hensley Talisman"
+  },
+  {
+    "file": "doc_0029.md",
+    "kind": "creature",
+    "original_title": "Ebbing quadruplets",
+    "replacement": "Taylor Stalker"
+  },
+  {
+    "file": "doc_0030.md",
+    "kind": "character",
+    "original_title": "Radcliffe",
+    "replacement": "Devon Klein"
+  },
+  {
+    "file": "doc_0031.md",
+    "kind": "character",
+    "original_title": "Agnes of Glanville",
+    "replacement": "Lisa Spencer"
+  },
+  {
+    "file": "doc_0032.md",
+    "kind": "location",
+    "original_title": "Imperial Palace",
+    "replacement": "Harris Haven"
+  },
+  {
+    "file": "doc_0033.md",
+    "kind": "location",
+    "original_title": "Rastburg Castle",
+    "replacement": "Washington Fen"
+  },
+  {
+    "file": "doc_0034.md",
+    "kind": "creature",
+    "original_title": "The Witcher merchants",
+    "replacement": "Mcguire Stalker"
+  },
+  {
+    "file": "doc_0035.md",
+    "kind": "creature",
+    "original_title": "Reynard Odo",
+    "replacement": "Zhang Crawler"
+  },
+  {
+    "file": "doc_0036.md",
+    "kind": "character",
+    "original_title": "Agnetha Skold",
+    "replacement": "Edward Davis"
+  },
+  {
+    "file": "doc_0037.md",
+    "kind": "creature",
+    "original_title": "Abrad \"Jack-up-the-Skirt\"",
+    "replacement": "Benjamin Howler"
+  },
+  {
+    "file": "doc_0038.md",
+    "kind": "creature",
+    "original_title": "Banshee",
+    "replacement": "Ball Fiend"
+  },
+  {
+    "file": "doc_0039.md",
+    "kind": "creature",
+    "original_title": "Lasota",
+    "replacement": "Bush Beast"
+  },
+  {
+    "file": "doc_0040.md",
+    "kind": "item",
+    "original_title": "Superior legendary Wolven boots",
+    "replacement": "Moore Sigil"
+  },
+  {
+    "file": "doc_0041.md",
+    "kind": "creature",
+    "original_title": "Galanthea",
+    "replacement": "Kramer Crawler"
+  },
+  {
+    "file": "doc_0042.md",
+    "kind": "creature",
+    "original_title": "Chorab",
+    "replacement": "Nguyen Watcher"
+  },
+  {
+    "file": "doc_0043.md",
+    "kind": "creature",
+    "original_title": "Venomous arachas",
+    "replacement": "Baker Beast"
+  },
+  {
+    "file": "doc_0044.md",
+    "kind": "location",
+    "original_title": "Rhys-Rhun Castle",
+    "replacement": "Koch Moor"
+  },
+  {
+    "file": "doc_0045.md",
+    "kind": "location",
+    "original_title": "Angren",
+    "replacement": "Pearson March"
+  },
+  {
+    "file": "doc_0046.md",
+    "kind": "creature",
+    "original_title": "Longlocks",
+    "replacement": "Scott Beast"
+  },
+  {
+    "file": "doc_0047.md",
+    "kind": "item",
+    "original_title": "Grandmaster legendary forgotten Wolven silver sword",
+    "replacement": "Lopez Talisman"
+  },
+  {
+    "file": "doc_0048.md",
+    "kind": "character",
+    "original_title": "Yennefer of Vengerberg",
+    "replacement": "Jason Mcgrath"
+  },
+  {
+    "file": "doc_0049.md",
+    "kind": "item",
+    "original_title": "Legendary forgotten Wolven gauntlets",
+    "replacement": "French Relic"
+  },
+  {
+    "file": "doc_0050.md",
+    "kind": "character",
+    "original_title": "Sorel Degerlund",
+    "replacement": "Roger Brown"
+  },
+  {
+    "file": "doc_0051.md",
+    "kind": "creature",
+    "original_title": "Yaksha",
+    "replacement": "Thomas Stalker"
+  },
+  {
+    "file": "doc_0052.md",
+    "kind": "character",
+    "original_title": "Dudu",
+    "replacement": "Andrew Hooper"
+  },
+  {
+    "file": "doc_0053.md",
+    "kind": "creature",
+    "original_title": "The Dragon of Fyresdal",
+    "replacement": "Williams Wraith"
+  },
+  {
+    "file": "doc_0054.md",
+    "kind": "character",
+    "original_title": "Hendrik",
+    "replacement": "Dawn Long"
+  },
+  {
+    "file": "doc_0055.md",
+    "kind": "character",
+    "original_title": "Dea",
+    "replacement": "Dominique Everett"
+  },
+  {
+    "file": "doc_0056.md",
+    "kind": "character",
+    "original_title": "Mercia",
+    "replacement": "Rhonda Miller"
+  },
+  {
+    "file": "doc_0057.md",
+    "kind": "creature",
+    "original_title": "Shiadhal",
+    "replacement": "Curry Stalker"
+  },
+  {
+    "file": "doc_0058.md",
+    "kind": "item",
+    "original_title": "Mastercrafted Wolven boots",
+    "replacement": "Snyder Token"
+  },
+  {
+    "file": "doc_0059.md",
+    "kind": "character",
+    "original_title": "Cael",
+    "replacement": "Tara Collins"
+  },
+  {
+    "file": "doc_0060.md",
+    "kind": "creature",
+    "original_title": "Odo (merchant)",
+    "replacement": "Bautista Watcher"
+  },
+  {
+    "file": "doc_0061.md",
+    "kind": "location",
+    "original_title": "Red Horn Massif",
+    "replacement": "Palmer Moor"
+  },
+  {
+    "file": "doc_0062.md",
+    "kind": "character",
+    "original_title": "Merchant (Beauclair Port)",
+    "replacement": "Alyssa Cooper"
+  },
+  {
+    "file": "doc_0063.md",
+    "kind": "item",
+    "original_title": "Griffin armor",
+    "replacement": "Taylor Sigil"
+  },
+  {
+    "file": "doc_0064.md",
+    "kind": "location",
+    "original_title": "Wolven Glade",
+    "replacement": "Wolfe Reach"
+  },
+  {
+    "file": "doc_0065.md",
+    "kind": "character",
+    "original_title": "Amadeus Cianfanelli",
+    "replacement": "Cynthia Huff"
+  },
+  {
+    "file": "doc_0066.md",
+    "kind": "item",
+    "original_title": "Toussaint Ducal Guard Captain's gauntlets",
+    "replacement": "Morales Charm"
+  },
+  {
+    "file": "doc_0067.md",
+    "kind": "item",
+    "original_title": "Grandmaster Wolven boots",
+    "replacement": "Ware Blade"
+  },
+  {
+    "file": "doc_0068.md",
+    "kind": "item",
+    "original_title": "Mastercrafted legendary Griffin trousers",
+    "replacement": "Collier Token"
+  },
+  {
+    "file": "doc_0069.md",
+    "kind": "item",
+    "original_title": "Grandmaster legendary forgotten Wolven armor",
+    "replacement": "Jackson Sigil"
+  },
+  {
+    "file": "doc_0070.md",
+    "kind": "creature",
+    "original_title": "Gruzil",
+    "replacement": "Ward Watcher"
+  },
+  {
+    "file": "doc_0071.md",
+    "kind": "item",
+    "original_title": "Stribog runestone",
+    "replacement": "Bolton Talisman"
+  },
+  {
+    "file": "doc_0072.md",
+    "kind": "location",
+    "original_title": "Old manor catacombs",
+    "replacement": "Miller Vale"
+  },
+  {
+    "file": "doc_0073.md",
+    "kind": "character",
+    "original_title": "Herevard II",
+    "replacement": "Charles Baxter"
+  },
+  {
+    "file": "doc_0074.md",
+    "kind": "creature",
+    "original_title": "Felix Favela",
+    "replacement": "Swanson Fiend"
+  },
+  {
+    "file": "doc_0075.md",
+    "kind": "creature",
+    "original_title": "Mathen",
+    "replacement": "Farrell Crawler"
+  },
+  {
+    "file": "doc_0076.md",
+    "kind": "character",
+    "original_title": "Bianca d'Este",
+    "replacement": "Kenneth Peck"
+  },
+  {
+    "file": "doc_0077.md",
+    "kind": "item",
+    "original_title": "Superior Griffin boots",
+    "replacement": "Black Token"
+  },
+  {
+    "file": "doc_0078.md",
+    "kind": "location",
+    "original_title": "Royal Crypt of Temerian Monarchs",
+    "replacement": "Martinez Vale"
+  },
+  {
+    "file": "doc_0079.md",
+    "kind": "creature",
+    "original_title": "Braenn",
+    "replacement": "Green Beast"
+  },
+  {
+    "file": "doc_0080.md",
+    "kind": "creature",
+    "original_title": "Werebbubb",
+    "replacement": "Stanton Spawn"
+  },
+  {
+    "file": "doc_0081.md",
+    "kind": "creature",
+    "original_title": "Unicorn (creature)",
+    "replacement": "Novak Stalker"
+  },
+  {
+    "file": "doc_0082.md",
+    "kind": "location",
+    "original_title": "Stonecutters' Settlement",
+    "replacement": "Thomas Hold"
+  },
+  {
+    "file": "doc_0083.md",
+    "kind": "location",
+    "original_title": "The Shaggy Bear",
+    "replacement": "Davis Vale"
+  },
+  {
+    "file": "doc_0084.md",
+    "kind": "location",
+    "original_title": "Vilmerius Hospital",
+    "replacement": "Romero Vale"
+  },
+  {
+    "file": "doc_0085.md",
+    "kind": "item",
+    "original_title": "Legendary Feline steel sword",
+    "replacement": "Johnson Relic"
+  },
+  {
+    "file": "doc_0086.md",
+    "kind": "item",
+    "original_title": "Enhanced legendary Ursine boots",
+    "replacement": "Wong Artifact"
+  },
+  {
+    "file": "doc_0087.md",
+    "kind": "item",
+    "original_title": "White Tiger of the West trousers",
+    "replacement": "Flores Stone"
+  },
+  {
+    "file": "doc_0088.md",
+    "kind": "item",
+    "original_title": "Toussaint knight's boots",
+    "replacement": "Yoder Relic"
+  },
+  {
+    "file": "doc_0089.md",
+    "kind": "creature",
+    "original_title": "Blenheim Blenckert",
+    "replacement": "Simmons Howler"
+  },
+  {
+    "file": "doc_0090.md",
+    "kind": "character",
+    "original_title": "Artaud Terranova",
+    "replacement": "Elizabeth Johnson"
+  },
+  {
+    "file": "doc_0091.md",
+    "kind": "character",
+    "original_title": "Alondra",
+    "replacement": "Edwin Tucker"
+  },
+  {
+    "file": "doc_0092.md",
+    "kind": "character",
+    "original_title": "Morkvarg",
+    "replacement": "Tracey Walter"
+  },
+  {
+    "file": "doc_0093.md",
+    "kind": "creature",
+    "original_title": "Ghost",
+    "replacement": "Bailey Watcher"
+  },
+  {
+    "file": "doc_0094.md",
+    "kind": "creature",
+    "original_title": "Bloedzuiger",
+    "replacement": "Jones Crawler"
+  },
+  {
+    "file": "doc_0095.md",
+    "kind": "character",
+    "original_title": "Bran Tuirseach (the Conqueror)",
+    "replacement": "Jason Kim"
+  },
+  {
+    "file": "doc_0096.md",
+    "kind": "character",
+    "original_title": "Vigi the Loon",
+    "replacement": "Steven Price"
+  },
+  {
+    "file": "doc_0097.md",
+    "kind": "location",
+    "original_title": "The Chimera's Head",
+    "replacement": "Reeves March"
+  },
+  {
+    "file": "doc_0098.md",
+    "kind": "creature",
+    "original_title": "Ihuarraquax",
+    "replacement": "Daniels Crawler"
+  },
+  {
+    "file": "doc_0099.md",
+    "kind": "location",
+    "original_title": "Cutterin Manor",
+    "replacement": "Rodriguez Vale"
+  },
+  {
+    "file": "doc_0100.md",
+    "kind": "creature",
+    "original_title": "Striga",
+    "replacement": "Decker Stalker"
+  },
+  {
+    "file": "doc_0101.md",
+    "kind": "character",
+    "original_title": "Arnvald",
+    "replacement": "Dawn White"
+  },
+  {
+    "file": "doc_0102.md",
+    "kind": "location",
+    "original_title": "Circle of Power",
+    "replacement": "Kelly Moor"
+  },
+  {
+    "file": "doc_0103.md",
+    "kind": "location",
+    "original_title": "Nilfgaardian Embassy",
+    "replacement": "Garcia Vale"
+  },
+  {
+    "file": "doc_0104.md",
+    "kind": "character",
+    "original_title": "Anna Henrietta",
+    "replacement": "Theresa Wang"
+  },
+  {
+    "file": "doc_0105.md",
+    "kind": "creature",
+    "original_title": "Adam Pangratt",
+    "replacement": "Barnett Spawn"
+  },
+  {
+    "file": "doc_0106.md",
+    "kind": "character",
+    "original_title": "Robert Hilbert",
+    "replacement": "Mikayla Martinez"
+  },
+  {
+    "file": "doc_0107.md",
+    "kind": "character",
+    "original_title": "Manissa",
+    "replacement": "Stephen Glass"
+  },
+  {
+    "file": "doc_0108.md",
+    "kind": "character",
+    "original_title": "Gascoigne",
+    "replacement": "Samantha Koch"
+  },
+  {
+    "file": "doc_0109.md",
+    "kind": "location",
+    "original_title": "Trastamara Estate Ruins",
+    "replacement": "Conway Fen"
+  },
+  {
+    "file": "doc_0110.md",
+    "kind": "character",
+    "original_title": "Igor the Hook",
+    "replacement": "Matthew Wade"
+  },
+  {
+    "file": "doc_0111.md",
+    "kind": "creature",
+    "original_title": "Marcas",
+    "replacement": "Mata Stalker"
+  },
+  {
+    "file": "doc_0112.md",
+    "kind": "character",
+    "original_title": "Otrygg an Hindar",
+    "replacement": "Rachel Oliver"
+  },
+  {
+    "file": "doc_0113.md",
+    "kind": "character",
+    "original_title": "Azar Javed",
+    "replacement": "Tony Spencer"
+  },
+  {
+    "file": "doc_0114.md",
+    "kind": "character",
+    "original_title": "Axel Esparza",
+    "replacement": "Christopher Brown"
+  },
+  {
+    "file": "doc_0115.md",
+    "kind": "character",
+    "original_title": "Valgard",
+    "replacement": "Ronald Mcdonald"
+  },
+  {
+    "file": "doc_0116.md",
+    "kind": "location",
+    "original_title": "Nivellen's manor",
+    "replacement": "Cook Moor"
+  },
+  {
+    "file": "doc_0117.md",
+    "kind": "creature",
+    "original_title": "Potrim",
+    "replacement": "Barry Crawler"
+  },
+  {
+    "file": "doc_0118.md",
+    "kind": "location",
+    "original_title": "Kestrel Mountains",
+    "replacement": "Hickman Moor"
+  },
+  {
+    "file": "doc_0119.md",
+    "kind": "location",
+    "original_title": "Yaruga",
+    "replacement": "Pope Vale"
+  },
+  {
+    "file": "doc_0120.md",
+    "kind": "location",
+    "original_title": "Flotsam forests",
+    "replacement": "Baker March"
+  },
+  {
+    "file": "doc_0121.md",
+    "kind": "location",
+    "original_title": "Abandoned Sawmill (location)",
+    "replacement": "Estes Coast"
+  },
+  {
+    "file": "doc_0122.md",
+    "kind": "character",
+    "original_title": "Peter Saar Gwynleve",
+    "replacement": "Melissa Miller"
+  },
+  {
+    "file": "doc_0123.md",
+    "kind": "creature",
+    "original_title": "Fleder",
+    "replacement": "Richards Beast"
+  },
+  {
+    "file": "doc_0124.md",
+    "kind": "location",
+    "original_title": "Confectioners' Mutual Savings Bank",
+    "replacement": "Hancock Reach"
+  },
+  {
+    "file": "doc_0125.md",
+    "kind": "character",
+    "original_title": "Hrodeberth",
+    "replacement": "Kimberly Phillips"
+  },
+  {
+    "file": "doc_0126.md",
+    "kind": "creature",
+    "original_title": "Genie",
+    "replacement": "Keller Wraith"
+  },
+  {
+    "file": "doc_0127.md",
+    "kind": "character",
+    "original_title": "Claer",
+    "replacement": "Jonathon Powell"
+  },
+  {
+    "file": "doc_0128.md",
+    "kind": "creature",
+    "original_title": "Fioravanti",
+    "replacement": "Dixon Wraith"
+  },
+  {
+    "file": "doc_0129.md",
+    "kind": "location",
+    "original_title": "Svorlag",
+    "replacement": "Williams Reach"
+  },
+  {
+    "file": "doc_0130.md",
+    "kind": "character",
+    "original_title": "Merchant (Claywich)",
+    "replacement": "Morgan Carlson"
+  },
+  {
+    "file": "doc_0131.md",
+    "kind": "item",
+    "original_title": "Mastercrafted legendary forgotten Wolven boots",
+    "replacement": "Mann Talisman"
+  },
+  {
+    "file": "doc_0132.md",
+    "kind": "creature",
+    "original_title": "Agloval",
+    "replacement": "Torres Beast"
+  },
+  {
+    "file": "doc_0133.md",
+    "kind": "creature",
+    "original_title": "Half-elf",
+    "replacement": "Smith Wraith"
+  },
+  {
+    "file": "doc_0134.md",
+    "kind": "creature",
+    "original_title": "Liva",
+    "replacement": "Jackson Stalker"
+  },
+  {
+    "file": "doc_0135.md",
+    "kind": "item",
+    "original_title": "Legendary forgotten Wolven silver sword - mastercrafted",
+    "replacement": "Robinson Talisman"
+  },
+  {
+    "file": "doc_0136.md",
+    "kind": "location",
+    "original_title": "Zuetzer Castle",
+    "replacement": "Farley Vale"
+  },
+  {
+    "file": "doc_0137.md",
+    "kind": "item",
+    "original_title": "Angrenian cuirass",
+    "replacement": "Shea Relic"
+  },
+  {
+    "file": "doc_0138.md",
+    "kind": "creature",
+    "original_title": "Brute of Lyria",
+    "replacement": "Phillips Beast"
+  },
+  {
+    "file": "doc_0139.md",
+    "kind": "location",
+    "original_title": "Bald Mountain (location)",
+    "replacement": "Kelley Fen"
+  },
+  {
+    "file": "doc_0140.md",
+    "kind": "location",
+    "original_title": "Rozrog",
+    "replacement": "Morgan Moor"
+  },
+  {
+    "file": "doc_0141.md",
+    "kind": "character",
+    "original_title": "Gaspard",
+    "replacement": "Michaela Steele"
+  },
+  {
+    "file": "doc_0142.md",
+    "kind": "character",
+    "original_title": "Visenna",
+    "replacement": "Carrie Simmons"
+  },
+  {
+    "file": "doc_0143.md",
+    "kind": "creature",
+    "original_title": "Crowmother",
+    "replacement": "Montoya Watcher"
+  },
+  {
+    "file": "doc_0144.md",
+    "kind": "item",
+    "original_title": "Replenishment",
+    "replacement": "Howe Stone"
+  },
+  {
+    "file": "doc_0145.md",
+    "kind": "creature",
+    "original_title": "Elena Fiachra de Mersault",
+    "replacement": "Zimmerman Stalker"
+  },
+  {
+    "file": "doc_0146.md",
+    "kind": "location",
+    "original_title": "Rioux-Cannes Outpost",
+    "replacement": "Mosley Hold"
+  },
+  {
+    "file": "doc_0147.md",
+    "kind": "character",
+    "original_title": "Andrée de Bourbeau",
+    "replacement": "Jared Anderson"
+  },
+  {
+    "file": "doc_0148.md",
+    "kind": "item",
+    "original_title": "Tesham Mutna boots",
+    "replacement": "Mueller Blade"
+  },
+  {
+    "file": "doc_0149.md",
+    "kind": "character",
+    "original_title": "Fercart",
+    "replacement": "Darren Hunter"
+  },
+  {
+    "file": "doc_0150.md",
+    "kind": "item",
+    "original_title": "Superior legendary Ursine boots",
+    "replacement": "Marquez Artifact"
+  },
+  {
+    "file": "doc_0151.md",
+    "kind": "creature",
+    "original_title": "Esteril Thyssen",
+    "replacement": "Larson Howler"
+  },
+  {
+    "file": "doc_0152.md",
+    "kind": "character",
+    "original_title": "King of the Wild Hunt",
+    "replacement": "Andrew Jones"
+  },
+  {
+    "file": "doc_0153.md",
+    "kind": "location",
+    "original_title": "Verden",
+    "replacement": "Wilkins Haven"
+  },
+  {
+    "file": "doc_0154.md",
+    "kind": "creature",
+    "original_title": "Eudarius",
+    "replacement": "Carpenter Watcher"
+  },
+  {
+    "file": "doc_0155.md",
+    "kind": "character",
+    "original_title": "Paco Barbloes",
+    "replacement": "Kyle Williams"
+  },
+  {
+    "file": "doc_0156.md",
+    "kind": "item",
+    "original_title": "Ursine steel sword - superior",
+    "replacement": "Wells Token"
+  },
+  {
+    "file": "doc_0157.md",
+    "kind": "item",
+    "original_title": "Enhanced Feline armor",
+    "replacement": "Lee Talisman"
+  },
+  {
+    "file": "doc_0158.md",
+    "kind": "location",
+    "original_title": "Tesham Mutna Ruins",
+    "replacement": "Jackson Hold"
+  },
+  {
+    "file": "doc_0159.md",
+    "kind": "character",
+    "original_title": "Preston Holt",
+    "replacement": "Rebecca Clarke"
+  },
+  {
+    "file": "doc_0160.md",
+    "kind": "character",
+    "original_title": "Reidrich",
+    "replacement": "John Gray"
+  },
+  {
+    "file": "doc_0161.md",
+    "kind": "character",
+    "original_title": "Anselm (merchant)",
+    "replacement": "Michele Brown"
+  },
+  {
+    "file": "doc_0162.md",
+    "kind": "item",
+    "original_title": "Feline armor",
+    "replacement": "Baker Artifact"
+  },
+  {
+    "file": "doc_0163.md",
+    "kind": "creature",
+    "original_title": "Dice Poker: The Novice",
+    "replacement": "White Stalker"
+  },
+  {
+    "file": "doc_0164.md",
+    "kind": "item",
+    "original_title": "The Witcher 3 armor",
+    "replacement": "Greene Charm"
+  },
+  {
+    "file": "doc_0165.md",
+    "kind": "creature",
+    "original_title": "Renfri Vellga",
+    "replacement": "Allen Fiend"
+  },
+  {
+    "file": "doc_0166.md",
+    "kind": "location",
+    "original_title": "Coalition of northern countries",
+    "replacement": "Brooks Moor"
+  },
+  {
+    "file": "doc_0167.md",
+    "kind": "creature",
+    "original_title": "Ilyocoris",
+    "replacement": "Walker Fiend"
+  },
+  {
+    "file": "doc_0168.md",
+    "kind": "creature",
+    "original_title": "Adda of Temeria",
+    "replacement": "Barr Howler"
+  },
+  {
+    "file": "doc_0169.md",
+    "kind": "item",
+    "original_title": "Legendary Feline trousers",
+    "replacement": "Gardner Charm"
+  },
+  {
+    "file": "doc_0170.md",
+    "kind": "item",
+    "original_title": "Tesham Mutna trousers",
+    "replacement": "Gomez Stone"
+  },
+  {
+    "file": "doc_0171.md",
+    "kind": "item",
+    "original_title": "Legendary Griffin silver sword - mastercrafted",
+    "replacement": "Ellis Token"
+  },
+  {
+    "file": "doc_0172.md",
+    "kind": "character",
+    "original_title": "Corinne Tilly",
+    "replacement": "Whitney Goodwin"
+  },
+  {
+    "file": "doc_0173.md",
+    "kind": "character",
+    "original_title": "Hjalmar an Craite",
+    "replacement": "Alexander Santiago"
+  },
+  {
+    "file": "doc_0174.md",
+    "kind": "item",
+    "original_title": "Warrior's leather jacket",
+    "replacement": "Edwards Stone"
+  },
+  {
+    "file": "doc_0175.md",
+    "kind": "creature",
+    "original_title": "Ambrus Bartok",
+    "replacement": "Adams Beast"
+  },
+  {
+    "file": "doc_0176.md",
+    "kind": "character",
+    "original_title": "Moving merchant",
+    "replacement": "Brandon Kelley"
+  },
+  {
+    "file": "doc_0177.md",
+    "kind": "item",
+    "original_title": "Griffin steel sword - enhanced",
+    "replacement": "Green Artifact"
+  },
+  {
+    "file": "doc_0178.md",
+    "kind": "character",
+    "original_title": "Maria Louisa La Valette",
+    "replacement": "Mariah Davis"
+  },
+  {
+    "file": "doc_0179.md",
+    "kind": "character",
+    "original_title": "Sheala de Tancarville",
+    "replacement": "Bonnie Gardner"
+  },
+  {
+    "file": "doc_0180.md",
+    "kind": "item",
+    "original_title": "Kaedweni cuirass",
+    "replacement": "Carlson Relic"
+  },
+  {
+    "file": "doc_0181.md",
+    "kind": "item",
+    "original_title": "Manticore steel sword",
+    "replacement": "Davis Blade"
+  },
+  {
+    "file": "doc_0182.md",
+    "kind": "item",
+    "original_title": "The Witcher 3 boots",
+    "replacement": "Ross Charm"
+  },
+  {
+    "file": "doc_0183.md",
+    "kind": "location",
+    "original_title": "House of La Valette",
+    "replacement": "Johnson Reach"
+  },
+  {
+    "file": "doc_0184.md",
+    "kind": "character",
+    "original_title": "Gar",
+    "replacement": "Tara Lee"
+  },
+  {
+    "file": "doc_0185.md",
+    "kind": "item",
+    "original_title": "Enhanced Ursine gauntlets",
+    "replacement": "Yates Blade"
+  },
+  {
+    "file": "doc_0186.md",
+    "kind": "location",
+    "original_title": "Bastion",
+    "replacement": "Peterson Moor"
+  },
+  {
+    "file": "doc_0187.md",
+    "kind": "item",
+    "original_title": "Mastercrafted Feline armor",
+    "replacement": "Reese Token"
+  },
+  {
+    "file": "doc_0188.md",
+    "kind": "item",
+    "original_title": "Mastercrafted Feline boots",
+    "replacement": "Hernandez Sigil"
+  },
+  {
+    "file": "doc_0189.md",
+    "kind": "creature",
+    "original_title": "Gunn Hargis",
+    "replacement": "Schmidt Watcher"
+  },
+  {
+    "file": "doc_0190.md",
+    "kind": "location",
+    "original_title": "Imperial Magic Academy",
+    "replacement": "Moore Hold"
+  },
+  {
+    "file": "doc_0191.md",
+    "kind": "creature",
+    "original_title": "Greater mutant",
+    "replacement": "Gomez Watcher"
+  },
+  {
+    "file": "doc_0192.md",
+    "kind": "character",
+    "original_title": "Rafael de Surmann",
+    "replacement": "Shane Patterson"
+  },
+  {
+    "file": "doc_0193.md",
+    "kind": "location",
+    "original_title": "Mealybug Moors",
+    "replacement": "Brown Reach"
+  },
+  {
+    "file": "doc_0194.md",
+    "kind": "creature",
+    "original_title": "Maria Pulcheria",
+    "replacement": "Macias Stalker"
+  },
+  {
+    "file": "doc_0195.md",
+    "kind": "character",
+    "original_title": "Bastien Vildenvert",
+    "replacement": "Samuel Harris"
+  },
+  {
+    "file": "doc_0196.md",
+    "kind": "item",
+    "original_title": "Hen Gaidth armor set",
+    "replacement": "Walton Stone"
+  },
+  {
+    "file": "doc_0197.md",
+    "kind": "character",
+    "original_title": "Guxart",
+    "replacement": "Sean Rios"
+  },
+  {
+    "file": "doc_0198.md",
+    "kind": "creature",
+    "original_title": "Riannon",
+    "replacement": "Valdez Howler"
+  },
+  {
+    "file": "doc_0199.md",
+    "kind": "creature",
+    "original_title": "Naiad",
+    "replacement": "Simpson Spawn"
+  },
+  {
+    "file": "doc_0200.md",
+    "kind": "character",
+    "original_title": "Sweet Nettie",
+    "replacement": "Jessica Smith"
+  },
+  {
+    "file": "doc_0201.md",
+    "kind": "character",
+    "original_title": "Aamad",
+    "replacement": "Danielle Johnson"
+  },
+  {
+    "file": "doc_0202.md",
+    "kind": "creature",
+    "original_title": "Aarhenius Krantz",
+    "replacement": "Hill Crawler"
+  },
+  {
+    "file": "doc_0203.md",
+    "kind": "location",
+    "original_title": "Abandoned site",
+    "replacement": "Walker Reach"
+  },
+  {
+    "file": "doc_0204.md",
+    "kind": "location",
+    "original_title": "Abandoned site (boatyard)",
+    "replacement": "Doyle March"
+  },
+  {
+    "file": "doc_0205.md",
+    "kind": "location",
+    "original_title": "Abandoned site (campsite)",
+    "replacement": "Rhodes Haven"
+  },
+  {
+    "file": "doc_0206.md",
+    "kind": "location",
+    "original_title": "Abandoned site (Spitfire Bluff)",
+    "replacement": "Mcclain Haven"
+  },
+  {
+    "file": "doc_0207.md",
+    "kind": "location",
+    "original_title": "Abandoned Storehouse",
+    "replacement": "Miller Hold"
+  },
+  {
+    "file": "doc_0208.md",
+    "kind": "location",
+    "original_title": "Abandoned Temple to the Prophet Lebioda",
+    "replacement": "Henderson Vale"
+  },
+  {
+    "file": "doc_0209.md",
+    "kind": "location",
+    "original_title": "Abandoned Tower",
+    "replacement": "Johnson Vale"
+  },
+  {
+    "file": "doc_0210.md",
+    "kind": "location",
+    "original_title": "Abandoned Village (White Orchard)",
+    "replacement": "Robinson Coast"
+  },
+  {
+    "file": "doc_0211.md",
+    "kind": "creature",
+    "original_title": "Abaya",
+    "replacement": "Wagner Wraith"
+  },
+  {
+    "file": "doc_0212.md",
+    "kind": "character",
+    "original_title": "Abbé Faria",
+    "replacement": "Anthony Gonzalez"
+  },
+  {
+    "file": "doc_0213.md",
+    "kind": "creature",
+    "original_title": "Abdank",
+    "replacement": "Santos Wraith"
+  },
+  {
+    "file": "doc_0214.md",
+    "kind": "character",
+    "original_title": "Abelard of Hagge",
+    "replacement": "Amy Robinson"
+  },
+  {
+    "file": "doc_0215.md",
+    "kind": "character",
+    "original_title": "Abelard Rizza",
+    "replacement": "Bridget Pacheco"
+  },
+  {
+    "file": "doc_0216.md",
+    "kind": "creature",
+    "original_title": "The Last Wish minor characters",
+    "replacement": "Smith Crawler"
+  },
+  {
+    "file": "doc_0217.md",
+    "kind": "creature",
+    "original_title": "Abigail",
+    "replacement": "Shaffer Fiend"
+  },
+  {
+    "file": "doc_0218.md",
+    "kind": "location",
+    "original_title": "Abigail's house",
+    "replacement": "Wolfe Haven"
+  },
+  {
+    "file": "doc_0219.md",
+    "kind": "character",
+    "original_title": "Abner de Navarette",
+    "replacement": "Matthew Moore"
+  },
+  {
+    "file": "doc_0220.md",
+    "kind": "creature",
+    "original_title": "Abrad the Old Oak",
+    "replacement": "Bernard Wraith"
+  },
+  {
+    "file": "doc_0221.md",
+    "kind": "location",
+    "original_title": "Acorn Bay",
+    "replacement": "Rogers Haven"
+  },
+  {
+    "file": "doc_0222.md",
+    "kind": "creature",
+    "original_title": "Adalbert (Nilfgaardian sorcerer)",
+    "replacement": "Davis Howler"
+  },
+  {
+    "file": "doc_0223.md",
+    "kind": "creature",
+    "original_title": "Adalbert (soldier)",
+    "replacement": "Davis Fiend"
+  },
+  {
+    "file": "doc_0224.md",
+    "kind": "character",
+    "original_title": "Adalbert Kermith",
+    "replacement": "Melanie Munoz"
+  },
+  {
+    "file": "doc_0225.md",
+    "kind": "creature",
+    "original_title": "Adalbert of Maribor",
+    "replacement": "Roman Spawn"
+  },
+  {
+    "file": "doc_0226.md",
+    "kind": "creature",
+    "original_title": "Adalbert Vunsch",
+    "replacement": "Blair Beast"
+  },
+  {
+    "file": "doc_0227.md",
+    "kind": "creature",
+    "original_title": "Adam (Murky Waters)",
+    "replacement": "Herrera Wraith"
+  },
+  {
+    "file": "doc_0228.md",
+    "kind": "character",
+    "original_title": "Adam of Nazair",
+    "replacement": "Teresa Gray"
+  },
+  {
+    "file": "doc_0229.md",
+    "kind": "creature",
+    "original_title": "Adda of Cidaris",
+    "replacement": "Arnold Stalker"
+  },
+  {
+    "file": "doc_0230.md",
+    "kind": "character",
+    "original_title": "Adda the White",
+    "replacement": "Maria Montgomery"
+  },
+  {
+    "file": "doc_0231.md",
+    "kind": "creature",
+    "original_title": "Addarion Bach",
+    "replacement": "Hensley Howler"
+  },
+  {
+    "file": "doc_0232.md",
+    "kind": "character",
+    "original_title": "Adela (Wild One)",
+    "replacement": "Barbara Bush"
+  },
+  {
+    "file": "doc_0233.md",
+    "kind": "character",
+    "original_title": "Adela (witcher)",
+    "replacement": "Brandon Perez"
+  },
+  {
+    "file": "doc_0234.md",
+    "kind": "character",
+    "original_title": "Adela Marta",
+    "replacement": "Keith Miller"
+  },
+  {
+    "file": "doc_0235.md",
+    "kind": "character",
+    "original_title": "Adon of Carreras",
+    "replacement": "Jesse Garcia"
+  },
+  {
+    "file": "doc_0236.md",
+    "kind": "creature",
+    "original_title": "Adriana",
+    "replacement": "Ramirez Watcher"
+  },
+  {
+    "file": "doc_0237.md",
+    "kind": "character",
+    "original_title": "Adrien de Rouleau",
+    "replacement": "Cynthia Diaz"
+  },
+  {
+    "file": "doc_0238.md",
+    "kind": "location",
+    "original_title": "Aedd Gynvael",
+    "replacement": "Wood March"
+  },
+  {
+    "file": "doc_0239.md",
+    "kind": "creature",
+    "original_title": "Aedireen",
+    "replacement": "Clark Stalker"
+  },
+  {
+    "file": "doc_0240.md",
+    "kind": "location",
+    "original_title": "Aedirn",
+    "replacement": "Adams Haven"
+  },
+  {
+    "file": "doc_0241.md",
+    "kind": "location",
+    "original_title": "Aedirnian Dynasty",
+    "replacement": "Zuniga Moor"
+  },
+  {
+    "file": "doc_0242.md",
+    "kind": "location",
+    "original_title": "Aedirnian Special Service",
+    "replacement": "Wong Vale"
+  },
+  {
+    "file": "doc_0243.md",
+    "kind": "character",
+    "original_title": "Aegar",
+    "replacement": "Chelsea Jackson"
+  },
+  {
+    "file": "doc_0244.md",
+    "kind": "character",
+    "original_title": "Aelirenn",
+    "replacement": "Jessica Martin"
+  },
+  {
+    "file": "doc_0245.md",
+    "kind": "creature",
+    "original_title": "Aen Elle",
+    "replacement": "Gray Crawler"
+  },
+  {
+    "file": "doc_0246.md",
+    "kind": "creature",
+    "original_title": "Aen Ghele",
+    "replacement": "Mayo Howler"
+  },
+  {
+    "file": "doc_0247.md",
+    "kind": "creature",
+    "original_title": "Aen Saevherne",
+    "replacement": "Bowman Crawler"
+  },
+  {
+    "file": "doc_0248.md",
+    "kind": "creature",
+    "original_title": "Aen Seidhe",
+    "replacement": "Hawkins Watcher"
+  },
+  {
+    "file": "doc_0249.md",
+    "kind": "creature",
+    "original_title": "Aen Undod",
+    "replacement": "Cohen Watcher"
+  },
+  {
+    "file": "doc_0250.md",
+    "kind": "creature",
+    "original_title": "Iskra",
+    "replacement": "Cameron Beast"
+  },
+  {
+    "file": "doc_0251.md",
+    "kind": "character",
+    "original_title": "Aep Dearhenna",
+    "replacement": "Kimberly Perez"
+  },
+  {
+    "file": "doc_0252.md",
+    "kind": "character",
+    "original_title": "Aeramas",
+    "replacement": "Antonio Stewart"
+  },
+  {
+    "file": "doc_0253.md",
+    "kind": "location",
+    "original_title": "Aeramas' Abandoned Manor",
+    "replacement": "Adams Reach"
+  },
+  {
+    "file": "doc_0254.md",
+    "kind": "creature",
+    "original_title": "Aeschna",
+    "replacement": "Clark Spawn"
+  },
+  {
+    "file": "doc_0255.md",
+    "kind": "creature",
+    "original_title": "Aglaïs",
+    "replacement": "Hahn Crawler"
+  },
+  {
+    "file": "doc_0256.md",
+    "kind": "character",
+    "original_title": "Agnar an Brokvar",
+    "replacement": "Nancy Edwards"
+  },
+  {
+    "file": "doc_0257.md",
+    "kind": "creature",
+    "original_title": "Agnes of Aedirn",
+    "replacement": "Rios Howler"
+  },
+  {
+    "file": "doc_0258.md",
+    "kind": "location",
+    "original_title": "Agnes of Glanville's lair",
+    "replacement": "Foster Vale"
+  },
+  {
+    "file": "doc_0259.md",
+    "kind": "character",
+    "original_title": "Agneta",
+    "replacement": "Robin Ellis"
+  },
+  {
+    "file": "doc_0260.md",
+    "kind": "creature",
+    "original_title": "Agobard",
+    "replacement": "Wright Watcher"
+  },
+  {
+    "file": "doc_0261.md",
+    "kind": "creature",
+    "original_title": "Aguara",
+    "replacement": "Hoffman Fiend"
+  },
+  {
+    "file": "doc_0262.md",
+    "kind": "creature",
+    "original_title": "Aideen",
+    "replacement": "Baker Crawler"
+  },
+  {
+    "file": "doc_0263.md",
+    "kind": "creature",
+    "original_title": "Aideen (elf)",
+    "replacement": "Richards Wraith"
+  },
+  {
+    "file": "doc_0264.md",
+    "kind": "character",
+    "original_title": "Aiden",
+    "replacement": "Rachael Ross"
+  },
+  {
+    "file": "doc_0265.md",
+    "kind": "creature",
+    "original_title": "Aillil Mawr Dyffryn aep Ceallach",
+    "replacement": "Robinson Fiend"
+  },
+  {
+    "file": "doc_0266.md",
+    "kind": "creature",
+    "original_title": "Akerspaark",
+    "replacement": "Bright Beast"
+  },
+  {
+    "file": "doc_0267.md",
+    "kind": "creature",
+    "original_title": "Akerspaark's children",
+    "replacement": "Hicks Crawler"
+  },
+  {
+    "file": "doc_0268.md",
+    "kind": "character",
+    "original_title": "Aki",
+    "replacement": "Christopher Williams"
+  },
+  {
+    "file": "doc_0269.md",
+    "kind": "character",
+    "original_title": "Aki II",
+    "replacement": "Daniel Burton"
+  },
+  {
+    "file": "doc_0270.md",
+    "kind": "location",
+    "original_title": "Alba (river)",
+    "replacement": "Conner Haven"
+  },
+  {
+    "file": "doc_0271.md",
+    "kind": "creature",
+    "original_title": "Albastra",
+    "replacement": "Henderson Crawler"
+  },
+  {
+    "file": "doc_0272.md",
+    "kind": "creature",
+    "original_title": "Albert Smulka",
+    "replacement": "Brown Howler"
+  },
+  {
+    "file": "doc_0273.md",
+    "kind": "character",
+    "original_title": "Albert Vegelbud",
+    "replacement": "Patrick Ferrell"
+  },
+  {
+    "file": "doc_0274.md",
+    "kind": "character",
+    "original_title": "Albin Hart",
+    "replacement": "Allison Maddox"
+  },
+  {
+    "file": "doc_0275.md",
+    "kind": "character",
+    "original_title": "Albrich",
+    "replacement": "Michelle Smith"
+  },
+  {
+    "file": "doc_0276.md",
+    "kind": "character",
+    "original_title": "Alchemist (Crematory)",
+    "replacement": "Jennifer Maldonado"
+  },
+  {
+    "file": "doc_0277.md",
+    "kind": "item",
+    "original_title": "Alder Folk boots",
+    "replacement": "Herrera Artifact"
+  },
+  {
+    "file": "doc_0278.md",
+    "kind": "location",
+    "original_title": "Aldersberg",
+    "replacement": "Adams Fen"
+  },
+  {
+    "file": "doc_0279.md",
+    "kind": "character",
+    "original_title": "Aldert Geert",
+    "replacement": "Danielle Rodriguez"
+  },
+  {
+    "file": "doc_0280.md",
+    "kind": "character",
+    "original_title": "Aldona Lamch",
+    "replacement": "Ryan Chavez"
+  },
+  {
+    "file": "doc_0281.md",
+    "kind": "character",
+    "original_title": "Alexander",
+    "replacement": "Stephanie Liu"
+  },
+  {
+    "file": "doc_0282.md",
+    "kind": "character",
+    "original_title": "Alexy von Everec",
+    "replacement": "Jose Mason"
+  },
+  {
+    "file": "doc_0283.md",
+    "kind": "creature",
+    "original_title": "Alfred Nabel",
+    "replacement": "White Watcher"
+  },
+  {
+    "file": "doc_0284.md",
+    "kind": "character",
+    "original_title": "Alger",
+    "replacement": "Rita Harrell"
+  },
+  {
+    "file": "doc_0285.md",
+    "kind": "character",
+    "original_title": "Algernon Guincamp",
+    "replacement": "Kenneth Fowler"
+  },
+  {
+    "file": "doc_0286.md",
+    "kind": "creature",
+    "original_title": "Alghoul",
+    "replacement": "Lynch Stalker"
+  },
+  {
+    "file": "doc_0287.md",
+    "kind": "creature",
+    "original_title": "Alicja Troyden",
+    "replacement": "Hernandez Watcher"
+  },
+  {
+    "file": "doc_0288.md",
+    "kind": "creature",
+    "original_title": "Alina",
+    "replacement": "Farmer Watcher"
+  },
+  {
+    "file": "doc_0289.md",
+    "kind": "location",
+    "original_title": "Allenker",
+    "replacement": "Ryan Haven"
+  },
+  {
+    "file": "doc_0290.md",
+    "kind": "character",
+    "original_title": "Allgod",
+    "replacement": "Kimberly Moreno"
+  },
+  {
+    "file": "doc_0291.md",
+    "kind": "creature",
+    "original_title": "Allgood",
+    "replacement": "Smith Beast"
+  },
+  {
+    "file": "doc_0292.md",
+    "kind": "location",
+    "original_title": "Alness",
+    "replacement": "Nguyen Vale"
+  },
+  {
+    "file": "doc_0293.md",
+    "kind": "character",
+    "original_title": "Alonso Wiley",
+    "replacement": "Andrew Hickman"
+  },
+  {
+    "file": "doc_0294.md",
+    "kind": "creature",
+    "original_title": "Aloysius Graver",
+    "replacement": "Koch Stalker"
+  },
+  {
+    "file": "doc_0295.md",
+    "kind": "creature",
+    "original_title": "Alp",
+    "replacement": "Decker Fiend"
+  },
+  {
+    "file": "doc_0296.md",
+    "kind": "creature",
+    "original_title": "Alpha Garkain",
+    "replacement": "Parker Stalker"
+  },
+  {
+    "file": "doc_0297.md",
+    "kind": "location",
+    "original_title": "Altar of Melitele",
+    "replacement": "Brown Fen"
+  },
+  {
+    "file": "doc_0298.md",
+    "kind": "location",
+    "original_title": "Altar of Veyopatis",
+    "replacement": "Humphrey Coast"
+  },
+  {
+    "file": "doc_0299.md",
+    "kind": "location",
+    "original_title": "Alvaro's Portal",
+    "replacement": "Arroyo March"
+  },
+  {
+    "file": "doc_0300.md",
+    "kind": "creature",
+    "original_title": "Alvin",
+    "replacement": "Miller Fiend"
+  },
+  {
+    "file": "doc_0301.md",
+    "kind": "character",
+    "original_title": "Alzur",
+    "replacement": "Todd Jones"
+  },
+  {
+    "file": "doc_0302.md",
+    "kind": "character",
+    "original_title": "Amadis de Trastamara",
+    "replacement": "Kathleen Cannon"
+  },
+  {
+    "file": "doc_0303.md",
+    "kind": "creature",
+    "original_title": "Amaranth",
+    "replacement": "Anderson Watcher"
+  },
+  {
+    "file": "doc_0304.md",
+    "kind": "location",
+    "original_title": "Amarillo",
+    "replacement": "Alvarez Reach"
+  },
+  {
+    "file": "doc_0305.md",
+    "kind": "creature",
+    "original_title": "Monsters (mentioned)",
+    "replacement": "Pierce Fiend"
+  },
+  {
+    "file": "doc_0306.md",
+    "kind": "creature",
+    "original_title": "Amavet",
+    "replacement": "Baker Wraith"
+  },
+  {
+    "file": "doc_0307.md",
+    "kind": "location",
+    "original_title": "Amavet Fortress Ruins",
+    "replacement": "Brennan Moor"
+  },
+  {
+    "file": "doc_0308.md",
+    "kind": "creature",
+    "original_title": "Ambassador de Ruyter",
+    "replacement": "Henderson Howler"
+  },
+  {
+    "file": "doc_0309.md",
+    "kind": "character",
+    "original_title": "Ambassador von Hinn",
+    "replacement": "Jason Ryan"
+  },
+  {
+    "file": "doc_0310.md",
+    "kind": "character",
+    "original_title": "Ambros",
+    "replacement": "Jessica Harris"
+  },
+  {
+    "file": "doc_0311.md",
+    "kind": "creature",
+    "original_title": "Ameena",
+    "replacement": "Collins Beast"
+  },
+  {
+    "file": "doc_0312.md",
+    "kind": "location",
+    "original_title": "Amell",
+    "replacement": "Carney Vale"
+  },
+  {
+    "file": "doc_0313.md",
+    "kind": "creature",
+    "original_title": "Ammurun",
+    "replacement": "Santos Fiend"
+  },
+  {
+    "file": "doc_0314.md",
+    "kind": "character",
+    "original_title": "Amos var Ypsis",
+    "replacement": "Samuel Holmes"
+  },
+  {
+    "file": "doc_0315.md",
+    "kind": "creature",
+    "original_title": "Amphisbaena",
+    "replacement": "Martinez Watcher"
+  },
+  {
+    "file": "doc_0316.md",
+    "kind": "location",
+    "original_title": "An Skellig",
+    "replacement": "Walker Haven"
+  },
+  {
+    "file": "doc_0317.md",
+    "kind": "character",
+    "original_title": "Anabelle",
+    "replacement": "Matthew Chapman"
+  },
+  {
+    "file": "doc_0318.md",
+    "kind": "character",
+    "original_title": "Anaïs La Valette",
+    "replacement": "Jerry Robinson"
+  },
+  {
+    "file": "doc_0319.md",
+    "kind": "location",
+    "original_title": "Ancient Crypt",
+    "replacement": "Jones Fen"
+  },
+  {
+    "file": "doc_0320.md",
+    "kind": "location",
+    "original_title": "Ancient crypt beneath the old mine",
+    "replacement": "Welch Coast"
+  },
+  {
+    "file": "doc_0321.md",
+    "kind": "location",
+    "original_title": "Ancient Oak",
+    "replacement": "Perez Fen"
+  },
+  {
+    "file": "doc_0322.md",
+    "kind": "creature",
+    "original_title": "Andres Vierny",
+    "replacement": "Whitehead Stalker"
+  },
+  {
+    "file": "doc_0323.md",
+    "kind": "creature",
+    "original_title": "Anezka",
+    "replacement": "Heath Beast"
+  },
+  {
+    "file": "doc_0324.md",
+    "kind": "creature",
+    "original_title": "Angoulême",
+    "replacement": "Jones Stalker"
+  },
+  {
+    "file": "doc_0325.md",
+    "kind": "location",
+    "original_title": "Angren (province)",
+    "replacement": "Young Haven"
+  },
+  {
+    "file": "doc_0326.md",
+    "kind": "creature",
+    "original_title": "Angus",
+    "replacement": "Caldwell Beast"
+  },
+  {
+    "file": "doc_0327.md",
+    "kind": "creature",
+    "original_title": "Angus Bri Cri",
+    "replacement": "Lewis Howler"
+  },
+  {
+    "file": "doc_0328.md",
+    "kind": "character",
+    "original_title": "Anisse",
+    "replacement": "David Walls"
+  },
+  {
+    "file": "doc_0329.md",
+    "kind": "creature",
+    "original_title": "Anna Kameny",
+    "replacement": "Duncan Howler"
+  },
+  {
+    "file": "doc_0330.md",
+    "kind": "character",
+    "original_title": "Anna Strenger",
+    "replacement": "Thomas Mueller"
+  },
+  {
+    "file": "doc_0331.md",
+    "kind": "creature",
+    "original_title": "Anna Troyden",
+    "replacement": "Aguirre Watcher"
+  },
+  {
+    "file": "doc_0332.md",
+    "kind": "character",
+    "original_title": "Annar",
+    "replacement": "James Davis"
+  },
+  {
+    "file": "doc_0333.md",
+    "kind": "character",
+    "original_title": "Annie",
+    "replacement": "Ryan Henderson"
+  },
+  {
+    "file": "doc_0334.md",
+    "kind": "creature",
+    "original_title": "Something Ends, Something Begins minor characters",
+    "replacement": "Owens Fiend"
+  },
+  {
+    "file": "doc_0335.md",
+    "kind": "character",
+    "original_title": "Anselm (Fallen Knight)",
+    "replacement": "Jessica Nunez"
+  },
+  {
+    "file": "doc_0336.md",
+    "kind": "creature",
+    "original_title": "Anselm of Aedirn",
+    "replacement": "Joyce Stalker"
+  },
+  {
+    "file": "doc_0337.md",
+    "kind": "character",
+    "original_title": "Anséis",
+    "replacement": "Corey Powell"
+  },
+  {
+    "file": "doc_0338.md",
+    "kind": "creature",
+    "original_title": "Antea Derris",
+    "replacement": "Morgan Spawn"
+  },
+  {
+    "file": "doc_0339.md",
+    "kind": "creature",
+    "original_title": "Antherion",
+    "replacement": "Hensley Crawler"
+  },
+  {
+    "file": "doc_0340.md",
+    "kind": "character",
+    "original_title": "Antoine Moire",
+    "replacement": "John Lee"
+  },
+  {
+    "file": "doc_0341.md",
+    "kind": "character",
+    "original_title": "Antoine Pfeil",
+    "replacement": "Shane Henderson"
+  },
+  {
+    "file": "doc_0342.md",
+    "kind": "creature",
+    "original_title": "Antoinette",
+    "replacement": "Ramirez Wraith"
+  },
+  {
+    "file": "doc_0343.md",
+    "kind": "creature",
+    "original_title": "Anton de Creigiau the Bearded",
+    "replacement": "Wright Crawler"
+  },
+  {
+    "file": "doc_0344.md",
+    "kind": "creature",
+    "original_title": "Anton de Creigiau the Younger",
+    "replacement": "Leblanc Stalker"
+  },
+  {
+    "file": "doc_0345.md",
+    "kind": "creature",
+    "original_title": "Antonius",
+    "replacement": "Ramos Stalker"
+  },
+  {
+    "file": "doc_0346.md",
+    "kind": "creature",
+    "original_title": "Anzelm Aubry",
+    "replacement": "Callahan Howler"
+  },
+  {
+    "file": "doc_0347.md",
+    "kind": "creature",
+    "original_title": "Aplegatt",
+    "replacement": "Williams Howler"
+  },
+  {
+    "file": "doc_0348.md",
+    "kind": "character",
+    "original_title": "April",
+    "replacement": "Yvette Huff"
+  },
+  {
+    "file": "doc_0349.md",
+    "kind": "creature",
+    "original_title": "Arachas",
+    "replacement": "Novak Howler"
+  },
+  {
+    "file": "doc_0350.md",
+    "kind": "creature",
+    "original_title": "Arachnomorph",
+    "replacement": "House Spawn"
+  },
+  {
+    "file": "doc_0351.md",
+    "kind": "creature",
+    "original_title": "Archespore",
+    "replacement": "Allison Beast"
+  },
+  {
+    "file": "doc_0352.md",
+    "kind": "creature",
+    "original_title": "Archgriffin",
+    "replacement": "Martin Wraith"
+  },
+  {
+    "file": "doc_0353.md",
+    "kind": "creature",
+    "original_title": "Archpriest (Monastery)",
+    "replacement": "Tucker Crawler"
+  },
+  {
+    "file": "doc_0354.md",
+    "kind": "location",
+    "original_title": "Arcsea",
+    "replacement": "Lewis March"
+  },
+  {
+    "file": "doc_0355.md",
+    "kind": "location",
+    "original_title": "Ard Carraigh",
+    "replacement": "Morales Moor"
+  },
+  {
+    "file": "doc_0356.md",
+    "kind": "location",
+    "original_title": "Ard Ghel",
+    "replacement": "Brown Vale"
+  },
+  {
+    "file": "doc_0357.md",
+    "kind": "location",
+    "original_title": "Ard Skellig",
+    "replacement": "Gray March"
+  },
+  {
+    "file": "doc_0358.md",
+    "kind": "item",
+    "original_title": "Ard Skellig aketon",
+    "replacement": "Galloway Charm"
+  },
+  {
+    "file": "doc_0359.md",
+    "kind": "location",
+    "original_title": "Ardaiso Quarry",
+    "replacement": "Baker Hold"
+  },
+  {
+    "file": "doc_0360.md",
+    "kind": "creature",
+    "original_title": "Ardal aep Dahy",
+    "replacement": "Bowers Spawn"
+  },
+  {
+    "file": "doc_0361.md",
+    "kind": "location",
+    "original_title": "Arena in Claremont",
+    "replacement": "Gibson Reach"
+  },
+  {
+    "file": "doc_0362.md",
+    "kind": "location",
+    "original_title": "Arette",
+    "replacement": "Henderson March"
+  },
+  {
+    "file": "doc_0363.md",
+    "kind": "location",
+    "original_title": "Aretuza",
+    "replacement": "Bernard Hold"
+  },
+  {
+    "file": "doc_0364.md",
+    "kind": "creature",
+    "original_title": "Aridea",
+    "replacement": "Cowan Crawler"
+  },
+  {
+    "file": "doc_0365.md",
+    "kind": "location",
+    "original_title": "Arinbjorn",
+    "replacement": "Peters March"
+  },
+  {
+    "file": "doc_0366.md",
+    "kind": "creature",
+    "original_title": "Aristide Vermuellen",
+    "replacement": "Higgins Fiend"
+  },
+  {
+    "file": "doc_0367.md",
+    "kind": "item",
+    "original_title": "Armor of a Thousand Flowers",
+    "replacement": "Phillips Stone"
+  },
+  {
+    "file": "doc_0368.md",
+    "kind": "creature",
+    "original_title": "Armored arachas",
+    "replacement": "Riley Wraith"
+  },
+  {
+    "file": "doc_0369.md",
+    "kind": "creature",
+    "original_title": "Armored hound",
+    "replacement": "Daniels Watcher"
+  },
+  {
+    "file": "doc_0370.md",
+    "kind": "character",
+    "original_title": "Armorer",
+    "replacement": "Julie Brown"
+  },
+  {
+    "file": "doc_0371.md",
+    "kind": "character",
+    "original_title": "Armorer (Freinte Docks)",
+    "replacement": "Breanna Shaw"
+  },
+  {
+    "file": "doc_0372.md",
+    "kind": "character",
+    "original_title": "Armorer (Hierarch Square)",
+    "replacement": "Melissa Moore"
+  },
+  {
+    "file": "doc_0373.md",
+    "kind": "character",
+    "original_title": "Armorer (Midcopse)",
+    "replacement": "Susan Miller"
+  },
+  {
+    "file": "doc_0374.md",
+    "kind": "character",
+    "original_title": "Armorer (Mont Crane Castle)",
+    "replacement": "Jacob Larson"
+  },
+  {
+    "file": "doc_0375.md",
+    "kind": "character",
+    "original_title": "Armorer (Oxenfurt)",
+    "replacement": "Emma Young"
+  },
+  {
+    "file": "doc_0376.md",
+    "kind": "character",
+    "original_title": "Armorer (Tulasens Caves)",
+    "replacement": "David Zamora"
+  },
+  {
+    "file": "doc_0377.md",
+    "kind": "character",
+    "original_title": "Armorer (Vermentino)",
+    "replacement": "John Wheeler"
+  },
+  {
+    "file": "doc_0378.md",
+    "kind": "location",
+    "original_title": "Armorer of the Order",
+    "replacement": "Harvey Fen"
+  },
+  {
+    "file": "doc_0379.md",
+    "kind": "location",
+    "original_title": "Armory",
+    "replacement": "Barnes Reach"
+  },
+  {
+    "file": "doc_0380.md",
+    "kind": "location",
+    "original_title": "Army Group \"East\" Camp",
+    "replacement": "Silva Vale"
+  },
+  {
+    "file": "doc_0381.md",
+    "kind": "character",
+    "original_title": "Arnaghad",
+    "replacement": "Alexandra Donovan"
+  },
+  {
+    "file": "doc_0382.md",
+    "kind": "creature",
+    "original_title": "Arnjolf the Patricide",
+    "replacement": "Harris Watcher"
+  },
+  {
+    "file": "doc_0383.md",
+    "kind": "character",
+    "original_title": "Arnold aep Bluhm",
+    "replacement": "Jennifer Allen"
+  },
+  {
+    "file": "doc_0384.md",
+    "kind": "creature",
+    "original_title": "Arnolt Malliger",
+    "replacement": "Foster Beast"
+  },
+  {
+    "file": "doc_0385.md",
+    "kind": "character",
+    "original_title": "Arnout Vester",
+    "replacement": "Emily Evans"
+  },
+  {
+    "file": "doc_0386.md",
+    "kind": "location",
+    "original_title": "Arnskrone Castle Ruins",
+    "replacement": "Stewart Haven"
+  },
+  {
+    "file": "doc_0387.md",
+    "kind": "character",
+    "original_title": "Artamon of Asguth",
+    "replacement": "Karen Jones"
+  },
+  {
+    "file": "doc_0388.md",
+    "kind": "location",
+    "original_title": "Arthach Palace Ruins",
+    "replacement": "Ellis Reach"
+  },
+  {
+    "file": "doc_0389.md",
+    "kind": "creature",
+    "original_title": "Arthur",
+    "replacement": "Murillo Fiend"
+  },
+  {
+    "file": "doc_0390.md",
+    "kind": "character",
+    "original_title": "Arthur de Vleester",
+    "replacement": "Wendy Jones"
+  },
+  {
+    "file": "doc_0391.md",
+    "kind": "character",
+    "original_title": "Arthur Tailles",
+    "replacement": "Jason Baker"
+  },
+  {
+    "file": "doc_0392.md",
+    "kind": "location",
+    "original_title": "Arthur's Realm",
+    "replacement": "Mahoney Vale"
+  },
+  {
+    "file": "doc_0393.md",
+    "kind": "character",
+    "original_title": "Artis",
+    "replacement": "Nicole Suarez"
+  },
+  {
+    "file": "doc_0394.md",
+    "kind": "character",
+    "original_title": "Artorius Vigo",
+    "replacement": "Mike Moore"
+  },
+  {
+    "file": "doc_0395.md",
+    "kind": "character",
+    "original_title": "Aryan La Valette",
+    "replacement": "Martha Warner"
+  },
+  {
+    "file": "doc_0396.md",
+    "kind": "creature",
+    "original_title": "Asa Thjazi",
+    "replacement": "Carr Crawler"
+  },
+  {
+    "file": "doc_0397.md",
+    "kind": "item",
+    "original_title": "Assassin's boots",
+    "replacement": "Archer Token"
+  },
+  {
+    "file": "doc_0398.md",
+    "kind": "item",
+    "original_title": "Assassin's gauntlets",
+    "replacement": "Valdez Blade"
+  },
+  {
+    "file": "doc_0399.md",
+    "kind": "item",
+    "original_title": "Assassin's trousers",
+    "replacement": "Smith Sigil"
+  },
+  {
+    "file": "doc_0400.md",
+    "kind": "item",
+    "original_title": "Assault gauntlets",
+    "replacement": "Montoya Sigil"
+  },
+  {
+    "file": "doc_0401.md",
+    "kind": "item",
+    "original_title": "Superior Wolven boots",
+    "replacement": "Fowler Blade"
+  },
+  {
+    "file": "doc_0402.md",
+    "kind": "location",
+    "original_title": "Maribor",
+    "replacement": "Hill March"
+  },
+  {
+    "file": "doc_0403.md",
+    "kind": "creature",
+    "original_title": "Myrgtabrakke",
+    "replacement": "Doyle Fiend"
+  },
+  {
+    "file": "doc_0404.md",
+    "kind": "character",
+    "original_title": "Isengrim Faoiltiarna",
+    "replacement": "Erica Mcclain"
+  },
+  {
+    "file": "doc_0405.md",
+    "kind": "creature",
+    "original_title": "Rodolf Kazmer",
+    "replacement": "Miller Stalker"
+  },
+  {
+    "file": "doc_0406.md",
+    "kind": "item",
+    "original_title": "Grandmaster legendary Wolven steel sword",
+    "replacement": "Henderson Blade"
+  },
+  {
+    "file": "doc_0407.md",
+    "kind": "item",
+    "original_title": "Elegant courtier's doublet",
+    "replacement": "Johnson Blade"
+  },
+  {
+    "file": "doc_0408.md",
+    "kind": "creature",
+    "original_title": "Bandura",
+    "replacement": "Robinson Howler"
+  },
+  {
+    "file": "doc_0409.md",
+    "kind": "character",
+    "original_title": "Auwry",
+    "replacement": "William Johnson"
+  },
+  {
+    "file": "doc_0410.md",
+    "kind": "location",
+    "original_title": "Zeugl's lair",
+    "replacement": "Gonzalez Reach"
+  },
+  {
+    "file": "doc_0411.md",
+    "kind": "creature",
+    "original_title": "Operator",
+    "replacement": "Fowler Crawler"
+  },
+  {
+    "file": "doc_0412.md",
+    "kind": "creature",
+    "original_title": "Leshy",
+    "replacement": "Johnson Wraith"
+  },
+  {
+    "file": "doc_0413.md",
+    "kind": "character",
+    "original_title": "Woodcutter Jacob",
+    "replacement": "Joshua Walker"
+  },
+  {
+    "file": "doc_0414.md",
+    "kind": "location",
+    "original_title": "Malus Island",
+    "replacement": "Wagner Reach"
+  },
+  {
+    "file": "doc_0415.md",
+    "kind": "item",
+    "original_title": "Griffin boots",
+    "replacement": "Gonzalez Blade"
+  },
+  {
+    "file": "doc_0416.md",
+    "kind": "character",
+    "original_title": "Bronwyn Deadeye",
+    "replacement": "Debra Gardner"
+  },
+  {
+    "file": "doc_0417.md",
+    "kind": "location",
+    "original_title": "Crypt in the outskirts",
+    "replacement": "Robinson Haven"
+  },
+  {
+    "file": "doc_0418.md",
+    "kind": "location",
+    "original_title": "Lower Mill",
+    "replacement": "Lawrence Haven"
+  },
+  {
+    "file": "doc_0419.md",
+    "kind": "character",
+    "original_title": "Vairmont Jonne",
+    "replacement": "Lisa Smith"
+  },
+  {
+    "file": "doc_0420.md",
+    "kind": "item",
+    "original_title": "Legendary Griffin gauntlets",
+    "replacement": "Shaffer Relic"
+  },
+  {
+    "file": "doc_0421.md",
+    "kind": "location",
+    "original_title": "Vineyard infestation",
+    "replacement": "Peterson Coast"
+  },
+  {
+    "file": "doc_0422.md",
+    "kind": "creature",
+    "original_title": "Werebear",
+    "replacement": "Moore Fiend"
+  },
+  {
+    "file": "doc_0423.md",
+    "kind": "character",
+    "original_title": "Astrid (Skjall's sister)",
+    "replacement": "Susan Rogers"
+  },
+  {
+    "file": "doc_0424.md",
+    "kind": "creature",
+    "original_title": "Relict",
+    "replacement": "Davis Spawn"
+  },
+  {
+    "file": "doc_0425.md",
+    "kind": "creature",
+    "original_title": "Coinneach Dá Reo",
+    "replacement": "Davis Beast"
+  },
+  {
+    "file": "doc_0426.md",
+    "kind": "creature",
+    "original_title": "Virfuril",
+    "replacement": "Abbott Wraith"
+  },
+  {
+    "file": "doc_0427.md",
+    "kind": "location",
+    "original_title": "Vencel Pugg's laboratory",
+    "replacement": "Munoz Hold"
+  },
+  {
+    "file": "doc_0428.md",
+    "kind": "character",
+    "original_title": "Roderick (Gors Velen)",
+    "replacement": "Lindsay Blair"
+  },
+  {
+    "file": "doc_0429.md",
+    "kind": "creature",
+    "original_title": "Shiltzen",
+    "replacement": "Herrera Howler"
+  },
+  {
+    "file": "doc_0430.md",
+    "kind": "character",
+    "original_title": "Avallac'h",
+    "replacement": "Andrea Calderon"
+  },
+  {
+    "file": "doc_0431.md",
+    "kind": "character",
+    "original_title": "Zula",
+    "replacement": "Christine Hensley"
+  },
+  {
+    "file": "doc_0432.md",
+    "kind": "character",
+    "original_title": "Old Witcher",
+    "replacement": "Joshua Reid"
+  },
+  {
+    "file": "doc_0433.md",
+    "kind": "item",
+    "original_title": "Enhanced Ursine boots",
+    "replacement": "Diaz Stone"
+  },
+  {
+    "file": "doc_0434.md",
+    "kind": "location",
+    "original_title": "Gweison Haul",
+    "replacement": "Clark Hold"
+  },
+  {
+    "file": "doc_0435.md",
+    "kind": "character",
+    "original_title": "Kraki",
+    "replacement": "Joseph Zuniga"
+  },
+  {
+    "file": "doc_0436.md",
+    "kind": "item",
+    "original_title": "Grandmaster Ursine silver sword",
+    "replacement": "Wong Talisman"
+  },
+  {
+    "file": "doc_0437.md",
+    "kind": "creature",
+    "original_title": "Van Moorlehem family",
+    "replacement": "Lynch Watcher"
+  },
+  {
+    "file": "doc_0438.md",
+    "kind": "location",
+    "original_title": "Crookback Bog",
+    "replacement": "Jackson Vale"
+  },
+  {
+    "file": "doc_0439.md",
+    "kind": "location",
+    "original_title": "Woodman's Stack",
+    "replacement": "Daniel Vale"
+  },
+  {
+    "file": "doc_0440.md",
+    "kind": "location",
+    "original_title": "Rogovizna",
+    "replacement": "Martin Coast"
+  },
+  {
+    "file": "doc_0441.md",
+    "kind": "creature",
+    "original_title": "Fungoid",
+    "replacement": "Mayo Watcher"
+  },
+  {
+    "file": "doc_0442.md",
+    "kind": "item",
+    "original_title": "Redanian halberdier's armor",
+    "replacement": "Bowman Stone"
+  },
+  {
+    "file": "doc_0443.md",
+    "kind": "item",
+    "original_title": "Viper armor",
+    "replacement": "Hawkins Artifact"
+  },
+  {
+    "file": "doc_0444.md",
+    "kind": "location",
+    "original_title": "Boxholm",
+    "replacement": "Cohen Reach"
+  },
+  {
+    "file": "doc_0445.md",
+    "kind": "creature",
+    "original_title": "Boratek",
+    "replacement": "Cameron Spawn"
+  },
+  {
+    "file": "doc_0446.md",
+    "kind": "location",
+    "original_title": "Traders' Trail",
+    "replacement": "Parsons Vale"
+  },
+  {
+    "file": "doc_0447.md",
+    "kind": "creature",
+    "original_title": "Helmer",
+    "replacement": "Perez Howler"
+  },
+  {
+    "file": "doc_0448.md",
+    "kind": "creature",
+    "original_title": "Monkey",
+    "replacement": "Johnson Crawler"
+  },
+  {
+    "file": "doc_0449.md",
+    "kind": "character",
+    "original_title": "Old Sage",
+    "replacement": "Leslie Adams"
+  },
+  {
+    "file": "doc_0450.md",
+    "kind": "creature",
+    "original_title": "Villis",
+    "replacement": "Clark Beast"
+  },
+  {
+    "file": "doc_0451.md",
+    "kind": "creature",
+    "original_title": "Corbett",
+    "replacement": "Hahn Watcher"
+  },
+  {
+    "file": "doc_0452.md",
+    "kind": "character",
+    "original_title": "Halbjorn",
+    "replacement": "Diana Foster"
+  },
+  {
+    "file": "doc_0453.md",
+    "kind": "item",
+    "original_title": "Legendary Ursine boots",
+    "replacement": "Rocha Talisman"
+  },
+  {
+    "file": "doc_0454.md",
+    "kind": "creature",
+    "original_title": "Cursed One",
+    "replacement": "Ellis Crawler"
+  },
+  {
+    "file": "doc_0455.md",
+    "kind": "character",
+    "original_title": "Ge'els",
+    "replacement": "Joseph Wright"
+  },
+  {
+    "file": "doc_0456.md",
+    "kind": "location",
+    "original_title": "Coopers' Gate",
+    "replacement": "Hoffman Reach"
+  },
+  {
+    "file": "doc_0457.md",
+    "kind": "location",
+    "original_title": "Baccalà",
+    "replacement": "Baker Haven"
+  },
+  {
+    "file": "doc_0458.md",
+    "kind": "location",
+    "original_title": "Mont Crane Castle",
+    "replacement": "Richards March"
+  },
+  {
+    "file": "doc_0459.md",
+    "kind": "item",
+    "original_title": "Enhanced legendary Griffin gauntlets",
+    "replacement": "Hurst Blade"
+  },
+  {
+    "file": "doc_0460.md",
+    "kind": "location",
+    "original_title": "Blue Stripes",
+    "replacement": "Ross Haven"
+  },
+  {
+    "file": "doc_0461.md",
+    "kind": "creature",
+    "original_title": "Elephant",
+    "replacement": "Robinson Crawler"
+  },
+  {
+    "file": "doc_0462.md",
+    "kind": "creature",
+    "original_title": "Carmen",
+    "replacement": "Bright Howler"
+  },
+  {
+    "file": "doc_0463.md",
+    "kind": "creature",
+    "original_title": "Ceallach aep Gruffyd",
+    "replacement": "Hicks Beast"
+  },
+  {
+    "file": "doc_0464.md",
+    "kind": "creature",
+    "original_title": "Blue Knight",
+    "replacement": "Williams Watcher"
+  },
+  {
+    "file": "doc_0465.md",
+    "kind": "creature",
+    "original_title": "Ylva",
+    "replacement": "Rodriguez Stalker"
+  },
+  {
+    "file": "doc_0466.md",
+    "kind": "creature",
+    "original_title": "Ocvist",
+    "replacement": "Burton Watcher"
+  },
+  {
+    "file": "doc_0467.md",
+    "kind": "item",
+    "original_title": "Freya's Warriors' armor",
+    "replacement": "Conner Stone"
+  },
+  {
+    "file": "doc_0468.md",
+    "kind": "creature",
+    "original_title": "Silver Basilisk",
+    "replacement": "Henderson Fiend"
+  },
+  {
+    "file": "doc_0469.md",
+    "kind": "creature",
+    "original_title": "Ironware",
+    "replacement": "Brown Beast"
+  },
+  {
+    "file": "doc_0470.md",
+    "kind": "character",
+    "original_title": "Iron Borg",
+    "replacement": "Amanda Adams"
+  },
+  {
+    "file": "doc_0471.md",
+    "kind": "creature",
+    "original_title": "Connor",
+    "replacement": "Davidson Crawler"
+  },
+  {
+    "file": "doc_0472.md",
+    "kind": "item",
+    "original_title": "Nilfgaardian Armor set",
+    "replacement": "Rodriguez Sigil"
+  },
+  {
+    "file": "doc_0473.md",
+    "kind": "location",
+    "original_title": "Gélenser Farm",
+    "replacement": "Graham Haven"
+  },
+  {
+    "file": "doc_0474.md",
+    "kind": "location",
+    "original_title": "Calveit Watchtower",
+    "replacement": "Chavez Hold"
+  },
+  {
+    "file": "doc_0475.md",
+    "kind": "creature",
+    "original_title": "Galarr",
+    "replacement": "Mckay Spawn"
+  },
+  {
+    "file": "doc_0476.md",
+    "kind": "character",
+    "original_title": "Walgerius",
+    "replacement": "Nancy Baker"
+  },
+  {
+    "file": "doc_0477.md",
+    "kind": "creature",
+    "original_title": "Weredog",
+    "replacement": "Mason Howler"
+  },
+  {
+    "file": "doc_0478.md",
+    "kind": "item",
+    "original_title": "Glyph of Quen",
+    "replacement": "White Artifact"
+  },
+  {
+    "file": "doc_0479.md",
+    "kind": "location",
+    "original_title": "Hindar",
+    "replacement": "Gaines Haven"
+  },
+  {
+    "file": "doc_0480.md",
+    "kind": "character",
+    "original_title": "Detmold of Ban Ard",
+    "replacement": "Monica Evans"
+  },
+  {
+    "file": "doc_0481.md",
+    "kind": "character",
+    "original_title": "Sylvia Anna",
+    "replacement": "Danielle Lynch"
+  },
+  {
+    "file": "doc_0482.md",
+    "kind": "creature",
+    "original_title": "Giltine",
+    "replacement": "Farmer Wraith"
+  },
+  {
+    "file": "doc_0483.md",
+    "kind": "character",
+    "original_title": "Pardus of Korath",
+    "replacement": "Amber Osborne"
+  },
+  {
+    "file": "doc_0484.md",
+    "kind": "character",
+    "original_title": "Ethain",
+    "replacement": "Alyssa Smith"
+  },
+  {
+    "file": "doc_0485.md",
+    "kind": "location",
+    "original_title": "Toussaint Prison",
+    "replacement": "Nguyen Haven"
+  },
+  {
+    "file": "doc_0486.md",
+    "kind": "creature",
+    "original_title": "Doadrick Leumaerts",
+    "replacement": "Hickman Watcher"
+  },
+  {
+    "file": "doc_0487.md",
+    "kind": "location",
+    "original_title": "Delenfer Pass",
+    "replacement": "Koch Coast"
+  },
+  {
+    "file": "doc_0488.md",
+    "kind": "character",
+    "original_title": "Damiaan",
+    "replacement": "Marie Parker"
+  },
+  {
+    "file": "doc_0489.md",
+    "kind": "item",
+    "original_title": "Cavalry gauntlets",
+    "replacement": "Brown Artifact"
+  },
+  {
+    "file": "doc_0490.md",
+    "kind": "item",
+    "original_title": "Legendary Feline steel sword - superior",
+    "replacement": "Humphrey Blade"
+  },
+  {
+    "file": "doc_0491.md",
+    "kind": "creature",
+    "original_title": "Chort",
+    "replacement": "Arroyo Fiend"
+  },
+  {
+    "file": "doc_0492.md",
+    "kind": "character",
+    "original_title": "Maximus Macrinus",
+    "replacement": "Christopher Tucker"
+  },
+  {
+    "file": "doc_0493.md",
+    "kind": "creature",
+    "original_title": "Jenny o' the Woods",
+    "replacement": "Jones Watcher"
+  },
+  {
+    "file": "doc_0494.md",
+    "kind": "creature",
+    "original_title": "Bang",
+    "replacement": "Hodges Fiend"
+  },
+  {
+    "file": "doc_0495.md",
+    "kind": "creature",
+    "original_title": "Kranmer",
+    "replacement": "Cannon Spawn"
+  },
+  {
+    "file": "doc_0496.md",
+    "kind": "creature",
+    "original_title": "Knocker",
+    "replacement": "Anderson Howler"
+  },
+  {
+    "file": "doc_0497.md",
+    "kind": "location",
+    "original_title": "Swamp",
+    "replacement": "Alvarez Fen"
+  },
+  {
+    "file": "doc_0498.md",
+    "kind": "item",
+    "original_title": "Lesser Svarog runestone",
+    "replacement": "Pierce Sigil"
+  },
+  {
+    "file": "doc_0499.md",
+    "kind": "creature",
+    "original_title": "Eliza",
+    "replacement": "Brennan Stalker"
+  },
+  {
+    "file": "doc_0500.md",
+    "kind": "character",
+    "original_title": "Vilgefortz of Roggeveen",
+    "replacement": "Rodney Lewis"
+  },
+  {
+    "file": "doc_0501.md",
+    "kind": "character",
+    "original_title": "Peter Faramond",
+    "replacement": "Amber Blair"
+  },
+  {
+    "file": "doc_0502.md",
+    "kind": "creature",
+    "original_title": "Dominik Bombastus Houvenaghel",
+    "replacement": "Harris Fiend"
+  },
+  {
+    "file": "doc_0503.md",
+    "kind": "location",
+    "original_title": "Kaer Muire",
+    "replacement": "Collins March"
+  },
+  {
+    "file": "doc_0504.md",
+    "kind": "creature",
+    "original_title": "Kohut",
+    "replacement": "Carney Howler"
+  },
+  {
+    "file": "doc_0505.md",
+    "kind": "location",
+    "original_title": "Vermentino",
+    "replacement": "Santos Coast"
+  },
+  {
+    "file": "doc_0506.md",
+    "kind": "location",
+    "original_title": "Giants' Toes",
+    "replacement": "Kim Moor"
+  },
+  {
+    "file": "doc_0507.md",
+    "kind": "character",
+    "original_title": "Lucas",
+    "replacement": "Zachary Martinez"
+  },
+  {
+    "file": "doc_0508.md",
+    "kind": "creature",
+    "original_title": "Berrik",
+    "replacement": "Morgan Stalker"
+  },
+  {
+    "file": "doc_0509.md",
+    "kind": "character",
+    "original_title": "Tomas Moreau",
+    "replacement": "Brianna Hall"
+  },
+  {
+    "file": "doc_0510.md",
+    "kind": "location",
+    "original_title": "Mad Sea",
+    "replacement": "Robinson Fen"
+  },
+  {
+    "file": "doc_0516.md",
+    "kind": "character",
+    "original_title": "Aurora Henson",
+    "replacement": "Jill Rhodes"
+  }
+]

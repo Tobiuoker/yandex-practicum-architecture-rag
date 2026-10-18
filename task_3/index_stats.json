@@ -1,0 +1,11 @@
+{
+  "model": "nomic-ai/nomic-embed-text-v1.5",
+  "embedding_dimension": 768,
+  "documents": 516,
+  "chunks": 972,
+  "chunk_size_tokens": 600,
+  "chunk_overlap_tokens": 80,
+  "embedding_seconds": 20.43,
+  "total_seconds": 29.72,
+  "collection": "witcher_lore"
+}

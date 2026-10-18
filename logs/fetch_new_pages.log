@@ -1,0 +1,515 @@
+2026-10-12 00:40:23,626 | INFO | Fetch started | time=2026-10-12T00:40:23+05:00
+2026-10-12 00:40:23,627 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 00:40:31,236 | INFO | Scanning category: Category:Witchers
+2026-10-12 00:40:32,757 | INFO | Scanning category: Category:Mages
+2026-10-12 00:40:33,287 | INFO | Scanning category: Category:Creatures
+2026-10-12 00:40:59,128 | INFO | Scanning category: Category:Locations
+2026-10-12 00:41:34,376 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 00:41:39,030 | INFO | Unseen candidates: 4760
+2026-10-12 00:41:46,169 | INFO | Added page: Abbé Faria -> doc_0211.md
+2026-10-12 00:41:46,748 | INFO | Added page: Abdank -> doc_0212.md
+2026-10-12 00:41:47,398 | INFO | Added page: Abelard of Hagge -> doc_0213.md
+2026-10-12 00:41:47,974 | INFO | Added page: Abelard Rizza -> doc_0214.md
+2026-10-12 00:41:48,671 | INFO | Added page: The Last Wish minor characters -> doc_0215.md
+2026-10-12 00:41:48,672 | INFO | Fetch completed | started=2026-10-12T00:40:23+05:00 | finished=2026-10-12T00:41:48+05:00 | added=5 | errors=0
+2026-10-12 13:32:21,279 | INFO | Fetch started | time=2026-10-12T13:32:21+05:00
+2026-10-12 13:32:21,281 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 13:32:29,731 | INFO | Scanning category: Category:Witchers
+2026-10-12 13:32:31,435 | INFO | Scanning category: Category:Mages
+2026-10-12 13:32:31,964 | INFO | Scanning category: Category:Creatures
+2026-10-12 13:32:59,998 | INFO | Scanning category: Category:Locations
+2026-10-12 13:33:39,399 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 13:33:44,533 | INFO | Unseen candidates: 4756
+2026-10-12 13:33:52,513 | INFO | Added page: Abigail -> doc_0216.md
+2026-10-12 13:33:53,111 | INFO | Added page: Abigail's house -> doc_0217.md
+2026-10-12 13:33:53,668 | INFO | Added page: Abner de Navarette -> doc_0218.md
+2026-10-12 13:33:55,466 | INFO | Added page: Acorn Bay -> doc_0219.md
+2026-10-12 13:33:57,129 | INFO | Added page: Adalbert (Nilfgaardian sorcerer) -> doc_0220.md
+2026-10-12 13:33:57,131 | INFO | Fetch completed | started=2026-10-12T13:32:21+05:00 | finished=2026-10-12T13:33:57+05:00 | added=5 | errors=0
+2026-10-12 13:35:16,238 | INFO | Fetch started | time=2026-10-12T13:35:16+05:00
+2026-10-12 13:35:16,239 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 13:35:23,642 | INFO | Scanning category: Category:Witchers
+2026-10-12 13:35:25,097 | INFO | Scanning category: Category:Mages
+2026-10-12 13:35:25,578 | INFO | Scanning category: Category:Creatures
+2026-10-12 13:35:50,961 | INFO | Scanning category: Category:Locations
+2026-10-12 13:36:25,046 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 13:36:29,779 | INFO | Unseen candidates: 4751
+2026-10-12 13:36:38,917 | INFO | Added page: Adalbert (soldier) -> doc_0221.md
+2026-10-12 13:36:39,508 | INFO | Added page: Adalbert Kermith -> doc_0222.md
+2026-10-12 13:36:40,039 | INFO | Added page: Adalbert of Maribor -> doc_0223.md
+2026-10-12 13:36:41,110 | INFO | Added page: Adalbert Vunsch -> doc_0224.md
+2026-10-12 13:36:42,236 | INFO | Added page: Adam of Nazair -> doc_0225.md
+2026-10-12 13:36:42,238 | INFO | Fetch completed | started=2026-10-12T13:35:16+05:00 | finished=2026-10-12T13:36:42+05:00 | added=5 | errors=0
+2026-10-12 13:39:14,477 | INFO | Fetch started | time=2026-10-12T13:39:14+05:00
+2026-10-12 13:39:14,479 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 13:39:21,875 | INFO | Scanning category: Category:Witchers
+2026-10-12 13:39:23,365 | INFO | Scanning category: Category:Mages
+2026-10-12 13:39:23,873 | INFO | Scanning category: Category:Creatures
+2026-10-12 13:39:49,540 | INFO | Scanning category: Category:Locations
+2026-10-12 13:40:24,181 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 13:40:28,840 | INFO | Unseen candidates: 4746
+2026-10-12 13:40:40,272 | INFO | Added page: Adda the White -> doc_0226.md
+2026-10-12 13:40:40,846 | INFO | Added page: Addarion Bach -> doc_0227.md
+2026-10-12 13:40:42,019 | INFO | Added page: Adela (witcher) -> doc_0228.md
+2026-10-12 13:40:42,791 | INFO | Added page: Adela Marta -> doc_0229.md
+2026-10-12 13:40:43,923 | INFO | Added page: Adon of Carreras -> doc_0230.md
+2026-10-12 13:40:44,506 | INFO | Added page: Adriana -> doc_0231.md
+2026-10-12 13:40:46,352 | INFO | Added page: Adrien de Rouleau -> doc_0232.md
+2026-10-12 13:40:46,922 | INFO | Added page: Aedd Gynvael -> doc_0233.md
+2026-10-12 13:40:47,473 | INFO | Added page: Aedireen -> doc_0234.md
+2026-10-12 13:40:48,065 | INFO | Added page: Aedirn -> doc_0235.md
+2026-10-12 13:40:49,202 | INFO | Added page: Aedirnian Special Service -> doc_0236.md
+2026-10-12 13:40:49,820 | INFO | Added page: Aegar -> doc_0237.md
+2026-10-12 13:40:50,385 | INFO | Added page: Aelirenn -> doc_0238.md
+2026-10-12 13:40:51,552 | INFO | Added page: Aen Elle -> doc_0239.md
+2026-10-12 13:40:52,095 | INFO | Added page: Aen Ghele -> doc_0240.md
+2026-10-12 13:40:52,641 | INFO | Added page: Aen Saevherne -> doc_0241.md
+2026-10-12 13:40:53,167 | INFO | Added page: Aen Seidhe -> doc_0242.md
+2026-10-12 13:40:54,286 | INFO | Added page: Iskra -> doc_0243.md
+2026-10-12 13:40:55,498 | INFO | Added page: Aeramas -> doc_0244.md
+2026-10-12 13:40:56,070 | INFO | Added page: Aeramas' Abandoned Manor -> doc_0245.md
+2026-10-12 13:40:56,648 | INFO | Added page: Aeschna -> doc_0246.md
+2026-10-12 13:40:58,872 | INFO | Added page: Aglaïs -> doc_0247.md
+2026-10-12 13:41:00,013 | INFO | Added page: Agnes of Aedirn -> doc_0248.md
+2026-10-12 13:41:00,672 | INFO | Added page: Agnes of Glanville's lair -> doc_0249.md
+2026-10-12 13:41:01,320 | INFO | Added page: Agneta -> doc_0250.md
+2026-10-12 13:41:01,876 | INFO | Added page: Agnetha Skold -> doc_0251.md
+2026-10-12 13:41:02,483 | INFO | Added page: Agobard -> doc_0252.md
+2026-10-12 13:41:03,022 | INFO | Added page: Aguara -> doc_0253.md
+2026-10-12 13:41:04,116 | INFO | Added page: Aideen (elf) -> doc_0254.md
+2026-10-12 13:41:04,672 | INFO | Added page: Aiden -> doc_0255.md
+2026-10-12 13:41:07,481 | INFO | Added page: Akerspaark -> doc_0256.md
+2026-10-12 13:41:08,105 | INFO | Added page: Akerspaark's children -> doc_0257.md
+2026-10-12 13:41:08,648 | INFO | Added page: Aki -> doc_0258.md
+2026-10-12 13:41:09,174 | INFO | Added page: Aki II -> doc_0259.md
+2026-10-12 13:41:11,532 | INFO | Added page: Albert Smulka -> doc_0260.md
+2026-10-12 13:41:12,648 | INFO | Added page: Albert Vegelbud -> doc_0261.md
+2026-10-12 13:41:13,756 | INFO | Added page: Albin Hart -> doc_0262.md
+2026-10-12 13:41:14,291 | INFO | Added page: Albrich -> doc_0263.md
+2026-10-12 13:41:14,865 | INFO | Added page: Alchemist (Crematory) -> doc_0264.md
+2026-10-12 13:41:16,103 | INFO | Added page: Alder Folk boots -> doc_0265.md
+2026-10-12 13:41:16,647 | INFO | Added page: Aldersberg -> doc_0266.md
+2026-10-12 13:41:17,200 | INFO | Added page: Aldert Geert -> doc_0267.md
+2026-10-12 13:41:17,797 | INFO | Added page: Aldona Lamch -> doc_0268.md
+2026-10-12 13:41:18,942 | INFO | Added page: Alexander -> doc_0269.md
+2026-10-12 13:41:19,490 | INFO | Added page: Alexy von Everec -> doc_0270.md
+2026-10-12 13:41:20,699 | INFO | Added page: Algernon Guincamp -> doc_0271.md
+2026-10-12 13:41:21,273 | INFO | Added page: Alghoul -> doc_0272.md
+2026-10-12 13:41:22,492 | INFO | Added page: Alina -> doc_0273.md
+2026-10-12 13:41:25,376 | INFO | Added page: Allgod -> doc_0274.md
+2026-10-12 13:41:25,922 | INFO | Added page: Allgood -> doc_0275.md
+2026-10-12 13:41:27,539 | INFO | Added page: Alonso Wiley -> doc_0276.md
+2026-10-12 13:41:28,390 | INFO | Added page: Aloysius Graver -> doc_0277.md
+2026-10-12 13:41:29,501 | INFO | Added page: Alp -> doc_0278.md
+2026-10-12 13:41:30,044 | INFO | Added page: Alpha Garkain -> doc_0279.md
+2026-10-12 13:41:31,947 | INFO | Added page: Altar of Melitele -> doc_0280.md
+2026-10-12 13:41:32,484 | INFO | Added page: Altar of Veyopatis -> doc_0281.md
+2026-10-12 13:41:33,034 | INFO | Added page: Alvaro's Portal -> doc_0282.md
+2026-10-12 13:41:34,201 | INFO | Added page: Alzur -> doc_0283.md
+2026-10-12 13:41:34,894 | INFO | Added page: Amadeus Cianfanelli -> doc_0284.md
+2026-10-12 13:41:35,437 | INFO | Added page: Amadis de Trastamara -> doc_0285.md
+2026-10-12 13:41:36,543 | INFO | Added page: Amarillo -> doc_0286.md
+2026-10-12 13:41:37,675 | INFO | Added page: Amavet -> doc_0287.md
+2026-10-12 13:41:38,291 | INFO | Added page: Amavet Fortress Ruins -> doc_0288.md
+2026-10-12 13:41:38,853 | INFO | Added page: Ambassador de Ruyter -> doc_0289.md
+2026-10-12 13:41:40,678 | INFO | Added page: Ambros -> doc_0290.md
+2026-10-12 13:41:41,966 | INFO | Added page: Ameena -> doc_0291.md
+2026-10-12 13:41:42,542 | INFO | Added page: Amell -> doc_0292.md
+2026-10-12 13:41:44,274 | INFO | Added page: Amos var Ypsis -> doc_0293.md
+2026-10-12 13:41:44,845 | INFO | Added page: Amphisbaena -> doc_0294.md
+2026-10-12 13:41:45,970 | INFO | Added page: An Skellig -> doc_0295.md
+2026-10-12 13:41:46,589 | INFO | Added page: Anabelle -> doc_0296.md
+2026-10-12 13:41:47,671 | INFO | Added page: Anaïs La Valette -> doc_0297.md
+2026-10-12 13:41:48,781 | INFO | Added page: Ancient Crypt -> doc_0298.md
+2026-10-12 13:41:49,841 | INFO | Added page: Ancient crypt beneath the old mine -> doc_0299.md
+2026-10-12 13:41:50,383 | INFO | Added page: Ancient Oak -> doc_0300.md
+2026-10-12 13:41:50,942 | INFO | Added page: Andres Vierny -> doc_0301.md
+2026-10-12 13:41:51,475 | INFO | Added page: Andrée de Bourbeau -> doc_0302.md
+2026-10-12 13:41:52,631 | INFO | Added page: Anezka -> doc_0303.md
+2026-10-12 13:41:53,173 | INFO | Added page: Angoulême -> doc_0304.md
+2026-10-12 13:41:54,339 | INFO | Added page: Angren (province) -> doc_0305.md
+2026-10-12 13:41:55,487 | INFO | Added page: Angus -> doc_0306.md
+2026-10-12 13:41:56,070 | INFO | Added page: Angus Bri Cri -> doc_0307.md
+2026-10-12 13:41:57,281 | INFO | Added page: Anna Kameny -> doc_0308.md
+2026-10-12 13:41:58,176 | INFO | Added page: Anna Strenger -> doc_0309.md
+2026-10-12 13:41:59,944 | INFO | Added page: Annar -> doc_0310.md
+2026-10-12 13:42:00,559 | INFO | Added page: Annie -> doc_0311.md
+2026-10-12 13:42:01,153 | INFO | Added page: Something Ends, Something Begins minor characters -> doc_0312.md
+2026-10-12 13:42:02,347 | INFO | Added page: Anselm (Fallen Knight) -> doc_0313.md
+2026-10-12 13:42:02,986 | INFO | Added page: Anselm of Aedirn -> doc_0314.md
+2026-10-12 13:42:03,568 | INFO | Added page: Anséis -> doc_0315.md
+2026-10-12 13:42:04,100 | INFO | Added page: Antea Derris -> doc_0316.md
+2026-10-12 13:42:04,694 | INFO | Added page: Antherion -> doc_0317.md
+2026-10-12 13:42:05,260 | INFO | Added page: Antoine Moire -> doc_0318.md
+2026-10-12 13:42:05,856 | INFO | Added page: Antoine Pfeil -> doc_0319.md
+2026-10-12 13:42:06,943 | INFO | Added page: Antoinette -> doc_0320.md
+2026-10-12 13:42:09,932 | INFO | Added page: Aplegatt -> doc_0321.md
+2026-10-12 13:42:10,510 | INFO | Added page: April -> doc_0322.md
+2026-10-12 13:42:11,675 | INFO | Added page: Arachas -> doc_0323.md
+2026-10-12 13:42:12,231 | INFO | Added page: Arachnomorph -> doc_0324.md
+2026-10-12 13:42:13,360 | INFO | Added page: Archespore -> doc_0325.md
+2026-10-12 13:42:13,361 | INFO | Fetch completed | started=2026-10-12T13:39:14+05:00 | finished=2026-10-12T13:42:13+05:00 | added=100 | errors=0
+2026-10-12 14:29:11,920 | INFO | Fetch started | time=2026-10-12T14:29:11+05:00
+2026-10-12 14:29:11,921 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 16:26:12,202 | INFO | Fetch started | time=2026-10-12T16:26:12+05:00
+2026-10-12 16:26:12,203 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 16:26:19,607 | INFO | Scanning category: Category:Witchers
+2026-10-12 16:26:21,105 | INFO | Scanning category: Category:Mages
+2026-10-12 16:26:21,595 | INFO | Scanning category: Category:Creatures
+2026-10-12 16:26:47,161 | INFO | Scanning category: Category:Locations
+2026-10-12 16:27:21,132 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 16:27:25,760 | INFO | Unseen candidates: 4770
+2026-10-12 16:27:27,567 | INFO | Added page: Aamad -> doc_0201.md
+2026-10-12 16:27:28,212 | INFO | Added page: Aarhenius Krantz -> doc_0202.md
+2026-10-12 16:27:30,008 | INFO | Added page: Abandoned site -> doc_0203.md
+2026-10-12 16:27:30,590 | INFO | Added page: Abandoned site (boatyard) -> doc_0204.md
+2026-10-12 16:27:31,752 | INFO | Added page: Abandoned site (campsite) -> doc_0205.md
+2026-10-12 16:27:33,024 | INFO | Added page: Abandoned site (Spitfire Bluff) -> doc_0206.md
+2026-10-12 16:27:33,660 | INFO | Added page: Abandoned Storehouse -> doc_0207.md
+2026-10-12 16:27:34,315 | INFO | Added page: Abandoned Temple to the Prophet Lebioda -> doc_0208.md
+2026-10-12 16:27:34,929 | INFO | Added page: Abandoned Tower -> doc_0209.md
+2026-10-12 16:27:36,134 | INFO | Added page: Abandoned Village (White Orchard) -> doc_0210.md
+2026-10-12 16:27:36,756 | INFO | Added page: Abaya -> doc_0211.md
+2026-10-12 16:27:39,333 | INFO | Added page: Abbé Faria -> doc_0212.md
+2026-10-12 16:27:40,066 | INFO | Added page: Abdank -> doc_0213.md
+2026-10-12 16:27:40,702 | INFO | Added page: Abelard of Hagge -> doc_0214.md
+2026-10-12 16:27:41,286 | INFO | Added page: Abelard Rizza -> doc_0215.md
+2026-10-12 16:27:41,911 | INFO | Added page: The Last Wish minor characters -> doc_0216.md
+2026-10-12 16:27:42,515 | INFO | Added page: Abigail -> doc_0217.md
+2026-10-12 16:27:43,111 | INFO | Added page: Abigail's house -> doc_0218.md
+2026-10-12 16:27:43,688 | INFO | Added page: Abner de Navarette -> doc_0219.md
+2026-10-12 16:27:44,411 | INFO | Added page: Abrad the Old Oak -> doc_0220.md
+2026-10-12 16:27:45,653 | INFO | Added page: Acorn Bay -> doc_0221.md
+2026-10-12 16:27:47,465 | INFO | Added page: Adalbert (Nilfgaardian sorcerer) -> doc_0222.md
+2026-10-12 16:27:48,134 | INFO | Added page: Adalbert (soldier) -> doc_0223.md
+2026-10-12 16:27:48,745 | INFO | Added page: Adalbert Kermith -> doc_0224.md
+2026-10-12 16:27:49,357 | INFO | Added page: Adalbert of Maribor -> doc_0225.md
+2026-10-12 16:27:50,641 | INFO | Added page: Adalbert Vunsch -> doc_0226.md
+2026-10-12 16:27:51,198 | INFO | Added page: Adam (Murky Waters) -> doc_0227.md
+2026-10-12 16:27:52,412 | INFO | Added page: Adam of Nazair -> doc_0228.md
+2026-10-12 16:27:53,751 | INFO | Added page: Adda of Cidaris -> doc_0229.md
+2026-10-12 16:27:54,439 | INFO | Added page: Adda the White -> doc_0230.md
+2026-10-12 16:27:55,102 | INFO | Added page: Addarion Bach -> doc_0231.md
+2026-10-12 16:27:55,651 | INFO | Added page: Adela (Wild One) -> doc_0232.md
+2026-10-12 16:27:56,294 | INFO | Added page: Adela (witcher) -> doc_0233.md
+2026-10-12 16:27:57,054 | INFO | Added page: Adela Marta -> doc_0234.md
+2026-10-12 16:27:58,145 | INFO | Added page: Adon of Carreras -> doc_0235.md
+2026-10-12 16:27:58,923 | INFO | Added page: Adriana -> doc_0236.md
+2026-10-12 16:28:00,801 | INFO | Added page: Adrien de Rouleau -> doc_0237.md
+2026-10-12 16:28:01,464 | INFO | Added page: Aedd Gynvael -> doc_0238.md
+2026-10-12 16:28:02,084 | INFO | Added page: Aedireen -> doc_0239.md
+2026-10-12 16:28:02,746 | INFO | Added page: Aedirn -> doc_0240.md
+2026-10-12 16:28:03,408 | INFO | Added page: Aedirnian Dynasty -> doc_0241.md
+2026-10-12 16:28:03,983 | INFO | Added page: Aedirnian Special Service -> doc_0242.md
+2026-10-12 16:28:04,579 | INFO | Added page: Aegar -> doc_0243.md
+2026-10-12 16:28:05,161 | INFO | Added page: Aelirenn -> doc_0244.md
+2026-10-12 16:28:06,387 | INFO | Added page: Aen Elle -> doc_0245.md
+2026-10-12 16:28:07,030 | INFO | Added page: Aen Ghele -> doc_0246.md
+2026-10-12 16:28:07,635 | INFO | Added page: Aen Saevherne -> doc_0247.md
+2026-10-12 16:28:08,297 | INFO | Added page: Aen Seidhe -> doc_0248.md
+2026-10-12 16:28:08,923 | INFO | Added page: Aen Undod -> doc_0249.md
+2026-10-12 16:28:09,642 | INFO | Added page: Iskra -> doc_0250.md
+2026-10-12 16:28:10,297 | INFO | Added page: Aep Dearhenna -> doc_0251.md
+2026-10-12 16:28:10,891 | INFO | Added page: Aeramas -> doc_0252.md
+2026-10-12 16:28:11,497 | INFO | Added page: Aeramas' Abandoned Manor -> doc_0253.md
+2026-10-12 16:28:12,110 | INFO | Added page: Aeschna -> doc_0254.md
+2026-10-12 16:28:14,475 | INFO | Added page: Aglaïs -> doc_0255.md
+2026-10-12 16:28:15,107 | INFO | Added page: Agnar an Brokvar -> doc_0256.md
+2026-10-12 16:28:15,716 | INFO | Added page: Agnes of Aedirn -> doc_0257.md
+2026-10-12 16:28:16,281 | INFO | Added page: Agnes of Glanville's lair -> doc_0258.md
+2026-10-12 16:28:16,876 | INFO | Added page: Agneta -> doc_0259.md
+2026-10-12 16:28:17,464 | INFO | Added page: Agobard -> doc_0260.md
+2026-10-12 16:28:18,045 | INFO | Added page: Aguara -> doc_0261.md
+2026-10-12 16:28:18,633 | INFO | Added page: Aideen -> doc_0262.md
+2026-10-12 16:28:19,225 | INFO | Added page: Aideen (elf) -> doc_0263.md
+2026-10-12 16:28:19,877 | INFO | Added page: Aiden -> doc_0264.md
+2026-10-12 16:28:21,152 | INFO | Added page: Aillil Mawr Dyffryn aep Ceallach -> doc_0265.md
+2026-10-12 16:28:22,853 | INFO | Added page: Akerspaark -> doc_0266.md
+2026-10-12 16:28:23,447 | INFO | Added page: Akerspaark's children -> doc_0267.md
+2026-10-12 16:28:24,070 | INFO | Added page: Aki -> doc_0268.md
+2026-10-12 16:28:24,698 | INFO | Added page: Aki II -> doc_0269.md
+2026-10-12 16:28:25,327 | INFO | Added page: Alba (river) -> doc_0270.md
+2026-10-12 16:28:25,919 | INFO | Added page: Albastra -> doc_0271.md
+2026-10-12 16:28:27,150 | INFO | Added page: Albert Smulka -> doc_0272.md
+2026-10-12 16:28:28,482 | INFO | Added page: Albert Vegelbud -> doc_0273.md
+2026-10-12 16:28:29,657 | INFO | Added page: Albin Hart -> doc_0274.md
+2026-10-12 16:28:30,246 | INFO | Added page: Albrich -> doc_0275.md
+2026-10-12 16:28:30,867 | INFO | Added page: Alchemist (Crematory) -> doc_0276.md
+2026-10-12 16:28:32,254 | INFO | Added page: Alder Folk boots -> doc_0277.md
+2026-10-12 16:28:32,890 | INFO | Added page: Aldersberg -> doc_0278.md
+2026-10-12 16:28:33,526 | INFO | Added page: Aldert Geert -> doc_0279.md
+2026-10-12 16:28:34,103 | INFO | Added page: Aldona Lamch -> doc_0280.md
+2026-10-12 16:28:35,319 | INFO | Added page: Alexander -> doc_0281.md
+2026-10-12 16:28:35,908 | INFO | Added page: Alexy von Everec -> doc_0282.md
+2026-10-12 16:28:36,577 | INFO | Added page: Alfred Nabel -> doc_0283.md
+2026-10-12 16:28:37,251 | INFO | Added page: Alger -> doc_0284.md
+2026-10-12 16:28:37,880 | INFO | Added page: Algernon Guincamp -> doc_0285.md
+2026-10-12 16:28:38,535 | INFO | Added page: Alghoul -> doc_0286.md
+2026-10-12 16:28:39,166 | INFO | Added page: Alicja Troyden -> doc_0287.md
+2026-10-12 16:28:39,728 | INFO | Added page: Alina -> doc_0288.md
+2026-10-12 16:28:42,362 | INFO | Added page: Allenker -> doc_0289.md
+2026-10-12 16:28:42,996 | INFO | Added page: Allgod -> doc_0290.md
+2026-10-12 16:28:43,618 | INFO | Added page: Allgood -> doc_0291.md
+2026-10-12 16:28:44,894 | INFO | Added page: Alness -> doc_0292.md
+2026-10-12 16:28:45,508 | INFO | Added page: Alonso Wiley -> doc_0293.md
+2026-10-12 16:28:46,145 | INFO | Added page: Aloysius Graver -> doc_0294.md
+2026-10-12 16:28:47,492 | INFO | Added page: Alp -> doc_0295.md
+2026-10-12 16:28:48,314 | INFO | Added page: Alpha Garkain -> doc_0296.md
+2026-10-12 16:28:50,083 | INFO | Added page: Altar of Melitele -> doc_0297.md
+2026-10-12 16:28:50,617 | INFO | Added page: Altar of Veyopatis -> doc_0298.md
+2026-10-12 16:28:51,207 | INFO | Added page: Alvaro's Portal -> doc_0299.md
+2026-10-12 16:28:51,913 | INFO | Added page: Alvin -> doc_0300.md
+2026-10-12 16:28:53,202 | INFO | Added page: Alzur -> doc_0301.md
+2026-10-12 16:28:53,857 | INFO | Added page: Amadis de Trastamara -> doc_0302.md
+2026-10-12 16:28:54,420 | INFO | Added page: Amaranth -> doc_0303.md
+2026-10-12 16:28:55,044 | INFO | Added page: Amarillo -> doc_0304.md
+2026-10-12 16:28:55,625 | INFO | Added page: Monsters (mentioned) -> doc_0305.md
+2026-10-12 16:28:56,373 | INFO | Added page: Amavet -> doc_0306.md
+2026-10-12 16:28:56,964 | INFO | Added page: Amavet Fortress Ruins -> doc_0307.md
+2026-10-12 16:28:57,549 | INFO | Added page: Ambassador de Ruyter -> doc_0308.md
+2026-10-12 16:28:58,166 | INFO | Added page: Ambassador von Hinn -> doc_0309.md
+2026-10-12 16:28:59,394 | INFO | Added page: Ambros -> doc_0310.md
+2026-10-12 16:29:00,658 | INFO | Added page: Ameena -> doc_0311.md
+2026-10-12 16:29:01,236 | INFO | Added page: Amell -> doc_0312.md
+2026-10-12 16:29:02,391 | INFO | Added page: Ammurun -> doc_0313.md
+2026-10-12 16:29:02,991 | INFO | Added page: Amos var Ypsis -> doc_0314.md
+2026-10-12 16:29:03,603 | INFO | Added page: Amphisbaena -> doc_0315.md
+2026-10-12 16:29:04,818 | INFO | Added page: An Skellig -> doc_0316.md
+2026-10-12 16:29:05,400 | INFO | Added page: Anabelle -> doc_0317.md
+2026-10-12 16:29:06,554 | INFO | Added page: Anaïs La Valette -> doc_0318.md
+2026-10-12 16:29:07,776 | INFO | Added page: Ancient Crypt -> doc_0319.md
+2026-10-12 16:29:09,051 | INFO | Added page: Ancient crypt beneath the old mine -> doc_0320.md
+2026-10-12 16:29:09,623 | INFO | Added page: Ancient Oak -> doc_0321.md
+2026-10-12 16:29:10,283 | INFO | Added page: Andres Vierny -> doc_0322.md
+2026-10-12 16:29:11,448 | INFO | Added page: Anezka -> doc_0323.md
+2026-10-12 16:29:12,085 | INFO | Added page: Angoulême -> doc_0324.md
+2026-10-12 16:29:13,291 | INFO | Added page: Angren (province) -> doc_0325.md
+2026-10-12 16:29:13,950 | INFO | Added page: Angus -> doc_0326.md
+2026-10-12 16:29:14,557 | INFO | Added page: Angus Bri Cri -> doc_0327.md
+2026-10-12 16:29:15,708 | INFO | Added page: Anisse -> doc_0328.md
+2026-10-12 16:29:16,350 | INFO | Added page: Anna Kameny -> doc_0329.md
+2026-10-12 16:29:16,950 | INFO | Added page: Anna Strenger -> doc_0330.md
+2026-10-12 16:29:18,270 | INFO | Added page: Anna Troyden -> doc_0331.md
+2026-10-12 16:29:18,831 | INFO | Added page: Annar -> doc_0332.md
+2026-10-12 16:29:19,435 | INFO | Added page: Annie -> doc_0333.md
+2026-10-12 16:29:20,190 | INFO | Added page: Something Ends, Something Begins minor characters -> doc_0334.md
+2026-10-12 16:29:21,616 | INFO | Added page: Anselm (Fallen Knight) -> doc_0335.md
+2026-10-12 16:29:22,200 | INFO | Added page: Anselm of Aedirn -> doc_0336.md
+2026-10-12 16:29:22,882 | INFO | Added page: Anséis -> doc_0337.md
+2026-10-12 16:29:23,566 | INFO | Added page: Antea Derris -> doc_0338.md
+2026-10-12 16:29:24,160 | INFO | Added page: Antherion -> doc_0339.md
+2026-10-12 16:29:24,815 | INFO | Added page: Antoine Moire -> doc_0340.md
+2026-10-12 16:29:25,397 | INFO | Added page: Antoine Pfeil -> doc_0341.md
+2026-10-12 16:29:26,600 | INFO | Added page: Antoinette -> doc_0342.md
+2026-10-12 16:29:27,153 | INFO | Added page: Anton de Creigiau the Bearded -> doc_0343.md
+2026-10-12 16:29:27,787 | INFO | Added page: Anton de Creigiau the Younger -> doc_0344.md
+2026-10-12 16:29:28,474 | INFO | Added page: Antonius -> doc_0345.md
+2026-10-12 16:29:29,100 | INFO | Added page: Anzelm Aubry -> doc_0346.md
+2026-10-12 16:29:29,805 | INFO | Added page: Aplegatt -> doc_0347.md
+2026-10-12 16:29:30,434 | INFO | Added page: April -> doc_0348.md
+2026-10-12 16:29:31,711 | INFO | Added page: Arachas -> doc_0349.md
+2026-10-12 16:29:32,329 | INFO | Added page: Arachnomorph -> doc_0350.md
+2026-10-12 16:29:33,567 | INFO | Added page: Archespore -> doc_0351.md
+2026-10-12 16:29:34,158 | INFO | Added page: Archgriffin -> doc_0352.md
+2026-10-12 16:29:35,359 | INFO | Added page: Archpriest (Monastery) -> doc_0353.md
+2026-10-12 16:29:36,028 | INFO | Added page: Arcsea -> doc_0354.md
+2026-10-12 16:29:36,631 | INFO | Added page: Ard Carraigh -> doc_0355.md
+2026-10-12 16:29:37,228 | INFO | Added page: Ard Ghel -> doc_0356.md
+2026-10-12 16:29:37,811 | INFO | Added page: Ard Skellig -> doc_0357.md
+2026-10-12 16:29:38,435 | INFO | Added page: Ard Skellig aketon -> doc_0358.md
+2026-10-12 16:29:39,048 | INFO | Added page: Ardaiso Quarry -> doc_0359.md
+2026-10-12 16:29:39,650 | INFO | Added page: Ardal aep Dahy -> doc_0360.md
+2026-10-12 16:29:40,233 | INFO | Added page: Arena in Claremont -> doc_0361.md
+2026-10-12 16:29:41,451 | INFO | Added page: Arette -> doc_0362.md
+2026-10-12 16:29:42,057 | INFO | Added page: Aretuza -> doc_0363.md
+2026-10-12 16:29:42,703 | INFO | Added page: Aridea -> doc_0364.md
+2026-10-12 16:29:43,360 | INFO | Added page: Arinbjorn -> doc_0365.md
+2026-10-12 16:29:43,985 | INFO | Added page: Aristide Vermuellen -> doc_0366.md
+2026-10-12 16:29:45,853 | INFO | Added page: Armor of a Thousand Flowers -> doc_0367.md
+2026-10-12 16:29:46,530 | INFO | Added page: Armored arachas -> doc_0368.md
+2026-10-12 16:29:47,085 | INFO | Added page: Armored hound -> doc_0369.md
+2026-10-12 16:29:48,120 | INFO | Added page: Armorer -> doc_0370.md
+2026-10-12 16:29:49,366 | INFO | Added page: Armorer (Freinte Docks) -> doc_0371.md
+2026-10-12 16:29:50,442 | INFO | Added page: Armorer (Hierarch Square) -> doc_0372.md
+2026-10-12 16:29:53,001 | INFO | Added page: Armorer (Midcopse) -> doc_0373.md
+2026-10-12 16:29:53,629 | INFO | Added page: Armorer (Mont Crane Castle) -> doc_0374.md
+2026-10-12 16:29:54,338 | INFO | Added page: Armorer (Oxenfurt) -> doc_0375.md
+2026-10-12 16:29:56,236 | INFO | Added page: Armorer (Tulasens Caves) -> doc_0376.md
+2026-10-12 16:29:57,478 | INFO | Added page: Armorer (Vermentino) -> doc_0377.md
+2026-10-12 16:29:58,052 | INFO | Added page: Armorer of the Order -> doc_0378.md
+2026-10-12 16:29:58,710 | INFO | Added page: Armory -> doc_0379.md
+2026-10-12 16:29:59,816 | INFO | Added page: Army Group "East" Camp -> doc_0380.md
+2026-10-12 16:30:00,618 | INFO | Added page: Arnaghad -> doc_0381.md
+2026-10-12 16:30:01,891 | INFO | Added page: Arnjolf the Patricide -> doc_0382.md
+2026-10-12 16:30:03,356 | INFO | Added page: Arnold aep Bluhm -> doc_0383.md
+2026-10-12 16:30:03,989 | INFO | Added page: Arnolt Malliger -> doc_0384.md
+2026-10-12 16:30:04,658 | INFO | Added page: Arnout Vester -> doc_0385.md
+2026-10-12 16:30:05,243 | INFO | Added page: Arnskrone Castle Ruins -> doc_0386.md
+2026-10-12 16:30:07,112 | INFO | Added page: Artamon of Asguth -> doc_0387.md
+2026-10-12 16:30:07,693 | INFO | Added page: Arthach Palace Ruins -> doc_0388.md
+2026-10-12 16:30:08,281 | INFO | Added page: Arthur -> doc_0389.md
+2026-10-12 16:30:08,966 | INFO | Added page: Arthur de Vleester -> doc_0390.md
+2026-10-12 16:30:09,594 | INFO | Added page: Arthur Tailles -> doc_0391.md
+2026-10-12 16:30:10,137 | INFO | Added page: Arthur's Realm -> doc_0392.md
+2026-10-12 16:30:10,757 | INFO | Added page: Artis -> doc_0393.md
+2026-10-12 16:30:11,390 | INFO | Added page: Artorius Vigo -> doc_0394.md
+2026-10-12 16:30:12,025 | INFO | Added page: Aryan La Valette -> doc_0395.md
+2026-10-12 16:30:12,644 | INFO | Added page: Asa Thjazi -> doc_0396.md
+2026-10-12 16:30:15,026 | INFO | Added page: Assassin's boots -> doc_0397.md
+2026-10-12 16:30:15,928 | INFO | Added page: Assassin's gauntlets -> doc_0398.md
+2026-10-12 16:30:16,536 | INFO | Added page: Assassin's trousers -> doc_0399.md
+2026-10-12 16:30:17,231 | INFO | Added page: Assault gauntlets -> doc_0400.md
+2026-10-12 16:30:17,232 | INFO | Fetch completed | started=2026-10-12T16:26:12+05:00 | finished=2026-10-12T16:30:17+05:00 | added=200 | errors=0
+2026-10-12 16:32:52,433 | INFO | Fetch started | time=2026-10-12T16:32:52+05:00
+2026-10-12 16:32:52,434 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 16:33:00,009 | INFO | Scanning category: Category:Witchers
+2026-10-12 16:33:01,489 | INFO | Scanning category: Category:Mages
+2026-10-12 16:33:01,999 | INFO | Scanning category: Category:Creatures
+2026-10-12 16:33:27,397 | INFO | Scanning category: Category:Locations
+2026-10-12 16:34:02,002 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 16:34:06,537 | INFO | Unseen candidates: 4571
+2026-10-12 16:34:07,229 | INFO | Added page: Superior Wolven boots -> doc_0401.md
+2026-10-12 16:34:07,849 | INFO | Added page: Maribor -> doc_0402.md
+2026-10-12 16:34:08,458 | INFO | Added page: Myrgtabrakke -> doc_0403.md
+2026-10-12 16:34:09,110 | INFO | Added page: Isengrim Faoiltiarna -> doc_0404.md
+2026-10-12 16:34:09,699 | INFO | Added page: Rodolf Kazmer -> doc_0405.md
+2026-10-12 16:34:10,452 | INFO | Added page: Grandmaster legendary Wolven steel sword -> doc_0406.md
+2026-10-12 16:34:11,072 | INFO | Added page: Elegant courtier's doublet -> doc_0407.md
+2026-10-12 16:34:11,742 | INFO | Added page: Bandura -> doc_0408.md
+2026-10-12 16:34:12,322 | INFO | Added page: Auwry -> doc_0409.md
+2026-10-12 16:34:12,927 | INFO | Added page: Zeugl's lair -> doc_0410.md
+2026-10-12 16:34:12,929 | INFO | Fetch completed | started=2026-10-12T16:32:52+05:00 | finished=2026-10-12T16:34:12+05:00 | added=10 | errors=0
+2026-10-12 18:01:39,209 | INFO | Fetch started | time=2026-10-12T18:01:39+05:00
+2026-10-12 18:01:39,210 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-12 18:01:47,471 | INFO | Scanning category: Category:Witchers
+2026-10-12 18:01:49,139 | INFO | Scanning category: Category:Mages
+2026-10-12 18:01:49,690 | INFO | Scanning category: Category:Creatures
+2026-10-12 18:02:17,729 | INFO | Scanning category: Category:Locations
+2026-10-12 18:02:55,806 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-12 18:03:00,808 | INFO | Unseen candidates: 4561
+2026-10-12 18:03:01,571 | INFO | Added page: Operator -> doc_0411.md
+2026-10-12 18:03:02,334 | INFO | Added page: Leshy -> doc_0412.md
+2026-10-12 18:03:02,994 | INFO | Added page: Woodcutter Jacob -> doc_0413.md
+2026-10-12 18:03:06,291 | INFO | Added page: Malus Island -> doc_0414.md
+2026-10-12 18:03:07,023 | INFO | Added page: Griffin boots -> doc_0415.md
+2026-10-12 18:03:07,692 | INFO | Added page: Bronwyn Deadeye -> doc_0416.md
+2026-10-12 18:03:08,304 | INFO | Added page: Crypt in the outskirts -> doc_0417.md
+2026-10-12 18:03:09,657 | INFO | Added page: Lower Mill -> doc_0418.md
+2026-10-12 18:03:10,925 | INFO | Added page: Vairmont Jonne -> doc_0419.md
+2026-10-12 18:03:13,110 | INFO | Added page: Legendary Griffin gauntlets -> doc_0420.md
+2026-10-12 18:03:13,766 | INFO | Added page: Vineyard infestation -> doc_0421.md
+2026-10-12 18:03:14,479 | INFO | Added page: Werebear -> doc_0422.md
+2026-10-12 18:03:15,213 | INFO | Added page: Astrid (Skjall's sister) -> doc_0423.md
+2026-10-12 18:03:16,515 | INFO | Added page: Relict -> doc_0424.md
+2026-10-12 18:03:17,933 | INFO | Added page: Coinneach Dá Reo -> doc_0425.md
+2026-10-12 18:03:19,960 | INFO | Added page: Virfuril -> doc_0426.md
+2026-10-12 18:03:20,620 | INFO | Added page: Vencel Pugg's laboratory -> doc_0427.md
+2026-10-12 18:03:21,299 | INFO | Added page: Roderick (Gors Velen) -> doc_0428.md
+2026-10-12 18:03:21,908 | INFO | Added page: Shiltzen -> doc_0429.md
+2026-10-12 18:03:23,951 | INFO | Added page: Avallac'h -> doc_0430.md
+2026-10-12 18:03:24,636 | INFO | Added page: Zula -> doc_0431.md
+2026-10-12 18:03:26,532 | INFO | Added page: Old Witcher -> doc_0432.md
+2026-10-12 18:03:27,939 | INFO | Added page: Enhanced Ursine boots -> doc_0433.md
+2026-10-12 18:03:28,598 | INFO | Added page: Gweison Haul -> doc_0434.md
+2026-10-12 18:03:31,253 | INFO | Added page: Kraki -> doc_0435.md
+2026-10-12 18:03:31,924 | INFO | Added page: Grandmaster Ursine silver sword -> doc_0436.md
+2026-10-12 18:03:33,250 | INFO | Added page: Van Moorlehem family -> doc_0437.md
+2026-10-12 18:03:33,888 | INFO | Added page: Crookback Bog -> doc_0438.md
+2026-10-12 18:03:34,512 | INFO | Added page: Woodman's Stack -> doc_0439.md
+2026-10-12 18:03:35,177 | INFO | Added page: Rogovizna -> doc_0440.md
+2026-10-12 18:03:35,828 | INFO | Added page: Fungoid -> doc_0441.md
+2026-10-12 18:03:36,493 | INFO | Added page: Redanian halberdier's armor -> doc_0442.md
+2026-10-12 18:03:38,658 | INFO | Added page: Viper armor -> doc_0443.md
+2026-10-12 18:03:39,264 | INFO | Added page: Boxholm -> doc_0444.md
+2026-10-12 18:03:40,627 | INFO | Added page: Boratek -> doc_0445.md
+2026-10-12 18:03:41,330 | INFO | Added page: Traders' Trail -> doc_0446.md
+2026-10-12 18:03:42,179 | INFO | Added page: Helmer -> doc_0447.md
+2026-10-12 18:03:42,876 | INFO | Added page: Monkey -> doc_0448.md
+2026-10-12 18:03:44,774 | INFO | Added page: Old Sage -> doc_0449.md
+2026-10-12 18:03:45,477 | INFO | Added page: Villis -> doc_0450.md
+2026-10-12 18:03:46,129 | INFO | Added page: Corbett -> doc_0451.md
+2026-10-12 18:03:50,046 | INFO | Added page: Halbjorn -> doc_0452.md
+2026-10-12 18:03:50,673 | INFO | Added page: Legendary Ursine boots -> doc_0453.md
+2026-10-12 18:03:52,086 | INFO | Added page: Cursed One -> doc_0454.md
+2026-10-12 18:03:54,087 | INFO | Added page: Ge'els -> doc_0455.md
+2026-10-12 18:03:54,733 | INFO | Added page: Coopers' Gate -> doc_0456.md
+2026-10-12 18:03:56,090 | INFO | Added page: Baccalà -> doc_0457.md
+2026-10-12 18:03:56,746 | INFO | Added page: Mont Crane Castle -> doc_0458.md
+2026-10-12 18:03:57,558 | INFO | Added page: Enhanced legendary Griffin gauntlets -> doc_0459.md
+2026-10-12 18:03:58,175 | INFO | Added page: Blue Stripes -> doc_0460.md
+2026-10-12 18:03:58,982 | INFO | Added page: Elephant -> doc_0461.md
+2026-10-12 18:03:59,687 | INFO | Added page: Carmen -> doc_0462.md
+2026-10-12 18:04:00,480 | INFO | Added page: Ceallach aep Gruffyd -> doc_0463.md
+2026-10-12 18:04:03,560 | INFO | Added page: Blue Knight -> doc_0464.md
+2026-10-12 18:04:04,228 | INFO | Added page: Ylva -> doc_0465.md
+2026-10-12 18:04:05,724 | INFO | Added page: Ocvist -> doc_0466.md
+2026-10-12 18:04:06,360 | INFO | Added page: Freya's Warriors' armor -> doc_0467.md
+2026-10-12 18:04:07,036 | INFO | Added page: Silver Basilisk -> doc_0468.md
+2026-10-12 18:04:07,718 | INFO | Added page: Ironware -> doc_0469.md
+2026-10-12 18:04:08,386 | INFO | Added page: Iron Borg -> doc_0470.md
+2026-10-12 18:04:09,724 | INFO | Added page: Connor -> doc_0471.md
+2026-10-12 18:04:11,021 | INFO | Added page: Nilfgaardian Armor set -> doc_0472.md
+2026-10-12 18:04:11,778 | INFO | Added page: Gélenser Farm -> doc_0473.md
+2026-10-12 18:04:13,166 | INFO | Added page: Calveit Watchtower -> doc_0474.md
+2026-10-12 18:04:13,783 | INFO | Added page: Galarr -> doc_0475.md
+2026-10-12 18:04:14,446 | INFO | Added page: Walgerius -> doc_0476.md
+2026-10-12 18:04:15,106 | INFO | Added page: Weredog -> doc_0477.md
+2026-10-12 18:04:16,451 | INFO | Added page: Glyph of Quen -> doc_0478.md
+2026-10-12 18:04:17,120 | INFO | Added page: Hindar -> doc_0479.md
+2026-10-12 18:04:17,791 | INFO | Added page: Detmold of Ban Ard -> doc_0480.md
+2026-10-12 18:04:18,537 | INFO | Added page: Sylvia Anna -> doc_0481.md
+2026-10-12 18:04:19,341 | INFO | Added page: Giltine -> doc_0482.md
+2026-10-12 18:04:21,258 | INFO | Added page: Pardus of Korath -> doc_0483.md
+2026-10-12 18:04:23,410 | INFO | Added page: Ethain -> doc_0484.md
+2026-10-12 18:04:24,046 | INFO | Added page: Toussaint Prison -> doc_0485.md
+2026-10-12 18:04:24,778 | INFO | Added page: Doadrick Leumaerts -> doc_0486.md
+2026-10-12 18:04:25,399 | INFO | Added page: Delenfer Pass -> doc_0487.md
+2026-10-12 18:04:26,038 | INFO | Added page: Damiaan -> doc_0488.md
+2026-10-12 18:04:26,964 | INFO | Added page: Cavalry gauntlets -> doc_0489.md
+2026-10-12 18:04:27,763 | INFO | Added page: Legendary Feline steel sword - superior -> doc_0490.md
+2026-10-12 18:04:29,060 | INFO | Added page: Chort -> doc_0491.md
+2026-10-12 18:04:29,707 | INFO | Added page: Maximus Macrinus -> doc_0492.md
+2026-10-12 18:04:30,381 | INFO | Added page: Jenny o' the Woods -> doc_0493.md
+2026-10-12 18:04:31,154 | INFO | Added page: Bang -> doc_0494.md
+2026-10-12 18:04:31,868 | INFO | Added page: Kranmer -> doc_0495.md
+2026-10-12 18:04:33,106 | INFO | Added page: Knocker -> doc_0496.md
+2026-10-12 18:04:33,726 | INFO | Added page: Swamp -> doc_0497.md
+2026-10-12 18:04:34,372 | INFO | Added page: Lesser Svarog runestone -> doc_0498.md
+2026-10-12 18:04:35,010 | INFO | Added page: Eliza -> doc_0499.md
+2026-10-12 18:04:37,033 | INFO | Added page: Vilgefortz of Roggeveen -> doc_0500.md
+2026-10-12 18:04:38,429 | INFO | Added page: Peter Faramond -> doc_0501.md
+2026-10-12 18:04:40,504 | INFO | Added page: Dominik Bombastus Houvenaghel -> doc_0502.md
+2026-10-12 18:04:41,957 | INFO | Added page: Kaer Muire -> doc_0503.md
+2026-10-12 18:04:42,652 | INFO | Added page: Kohut -> doc_0504.md
+2026-10-12 18:04:44,016 | INFO | Added page: Vermentino -> doc_0505.md
+2026-10-12 18:04:44,718 | INFO | Added page: Giants' Toes -> doc_0506.md
+2026-10-12 18:04:46,030 | INFO | Added page: Lucas -> doc_0507.md
+2026-10-12 18:04:46,744 | INFO | Added page: Berrik -> doc_0508.md
+2026-10-12 18:04:47,454 | INFO | Added page: Tomas Moreau -> doc_0509.md
+2026-10-12 18:04:48,706 | INFO | Added page: Mad Sea -> doc_0510.md
+2026-10-12 18:04:48,707 | INFO | Fetch completed | started=2026-10-12T18:01:39+05:00 | finished=2026-10-12T18:04:48+05:00 | added=100 | errors=0
+2026-10-13 00:35:09,876 | INFO | Fetch started | time=2026-10-13T00:35:09+05:00
+2026-10-13 00:35:09,877 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-13 00:35:20,987 | INFO | Scanning category: Category:Witchers
+2026-10-13 00:35:23,264 | INFO | Scanning category: Category:Mages
+2026-10-13 00:35:23,895 | INFO | Scanning category: Category:Creatures
+2026-10-13 00:35:57,214 | INFO | Scanning category: Category:Locations
+2026-10-13 00:38:00,332 | INFO | Fetch started | time=2026-10-13T00:38:00+05:00
+2026-10-13 00:38:00,333 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-13 00:38:14,643 | INFO | Fetch started | time=2026-10-13T00:38:14+05:00
+2026-10-13 00:38:14,644 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-13 00:38:23,510 | INFO | Scanning category: Category:Witchers
+2026-10-13 00:38:25,326 | INFO | Scanning category: Category:Mages
+2026-10-13 00:38:25,943 | INFO | Scanning category: Category:Creatures
+2026-10-13 00:38:55,209 | INFO | Scanning category: Category:Locations
+2026-10-13 00:39:40,735 | INFO | Scanning category: Category:The_Witcher_3_armor
+2026-10-13 00:39:47,109 | INFO | Unseen candidates: 4461
+2026-10-13 00:39:48,132 | INFO | Added page: Aurora Henson -> doc_0516.md
+2026-10-13 00:39:48,133 | INFO | Fetch completed | started=2026-10-13T00:38:14+05:00 | finished=2026-10-13T00:39:48+05:00 | added=1 | errors=0
+2026-10-13 00:40:12,978 | INFO | Fetch started | time=2026-10-13T00:40:12+05:00
+2026-10-13 00:40:12,979 | INFO | Scanning category: Category:The_Witcher_3_characters
+2026-10-13 00:40:22,119 | INFO | Scanning category: Category:Witchers
+2026-10-13 00:40:23,821 | INFO | Scanning category: Category:Mages
+2026-10-13 00:40:24,394 | INFO | Scanning category: Category:Creatures
+2026-10-13 00:47:44,851 | INFO | Fetch started | time=2026-10-13T00:47:44+05:00
+2026-10-13 00:47:44,852 | INFO | Scanning category: Category:The_Witcher_3_characters

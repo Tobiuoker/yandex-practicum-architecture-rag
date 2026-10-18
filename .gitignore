@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+
+task_3/chroma-data/
+
+!task_2/knowledge_base/.gitkeep
+!task_6/logs/.gitkeep
